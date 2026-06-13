@@ -209,7 +209,7 @@ Three dashboards. Three perspectives. One complete picture.
 ### Dashboard 1 — Performance Overview
 *"Which sector should you have put your money in?"*
 
-![Performance Overview](screenshots/dashboard1.png)
+![Performance Overview]("C:\Users\Sucheta\Pictures\Screenshots\Performance Overview.png")
 
 - **Bar chart** — Annualized return by sector, color scaled green to gold
 - **Risk vs Return scatter** — Bubble size = risk-adjusted score, quadrant lines show average risk and return
