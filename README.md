@@ -220,7 +220,7 @@ Three dashboards. Three perspectives. One complete picture.
 ### Dashboard 2 — Top Stocks Per Sector
 *"Within each sector, who actually delivered?"*
 
-![Top Stocks](screenshots/dashboard2.png)
+![Top Stocks](Top%205%20Stocks%20Per%20Sector.png)
 
 - **Stock heatmap** — Top performing stocks per sector
 - Blue = high return, Orange = lower return
@@ -231,7 +231,7 @@ Three dashboards. Three perspectives. One complete picture.
 ### Dashboard 3 — Market Volume Trends
 *"What did 21 years of market activity look like?"*
 
-![Volume Trends](screenshots/dashboard3.png)
+![Volume Trends](Market%20Volume%20Trends.png)
 
 - **Line chart** — Monthly trading volume across all 9 sectors
 - Massive spike visible in **2020** — COVID-19 market volatility
