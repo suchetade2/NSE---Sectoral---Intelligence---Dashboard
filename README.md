@@ -54,14 +54,23 @@ The question I set out to answer:
 ---
 
 Raw NSE Data (CSV)
+
 ↓
+
 EXCEL
+
 Clean · Transform · Enrich
+
 ↓
+
 MySQL
+
 Query · Aggregate · Analyze
+
 ↓
+
 TABLEAU
+
 Visualize · Dashboard · Publish
 
 ---
