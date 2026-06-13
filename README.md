@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 Live Dashboard
-👉 **[Explore the Full Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sucheta.de/viz/NSE-Sectoral-Intelligence-Dashboard/NSEDashboard)**
+👉 **[Explore the Full Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sucheta.de7420/viz/IndianStockMarketSectoralPerformanceRiskAnalysis/IndianStockMarketSectoralPerformanceRiskAnalysis?publish=yes)**
 
 ---
 
@@ -281,7 +281,7 @@ Storytelling           ████████████  Business context, i
 
 | Resource | Link |
 |---|---|
-| 📊 Live Tableau Dashboard | [Click here](https://public.tableau.com/app/profile/sucheta.de/viz/NSE-Sectoral-Intelligence-Dashboard/NSEDashboard) |
+| 📊 Live Tableau Dashboard | [Click here](https://public.tableau.com/app/profile/sucheta.de7420/viz/IndianStockMarketSectoralPerformanceRiskAnalysis/IndianStockMarketSectoralPerformanceRiskAnalysis?publish=yes) |
 | 📦 Dataset | [Kaggle — NIFTY50 Stock Market Data](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data) |
 
 ---
