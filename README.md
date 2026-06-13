@@ -53,6 +53,19 @@ The question I set out to answer:
 
 ---
 
+Raw NSE Data (CSV)
+↓
+EXCEL
+Clean · Transform · Enrich
+↓
+MySQL
+Query · Aggregate · Analyze
+↓
+TABLEAU
+Visualize · Dashboard · Publish
+
+---
+
 ## 🧹 Chapter 1 — Cleaning the Mess (Excel)
 
 Raw data is never pretty. This dataset was no different.
@@ -238,6 +251,20 @@ After 21 years of data, here's what the numbers revealed:
 ---
 
 ## 💡 Skills Demonstrated
+
+---
+
+Data Cleaning          ████████████  Excel VLOOKUP, Find & Replace, Pivot Tables
+
+SQL Analysis           ████████████  GROUP BY, STD(), SQRT(), Window Functions
+
+Financial Metrics      ████████████  Annualized Return, Volatility, Sharpe Score
+
+Data Visualization     ████████████  Bar, Scatter, Heatmap, Line — Tableau Public
+
+Domain Knowledge       ████████████  NSE, Sectors, Risk-Return, Indian Markets
+
+Storytelling           ████████████  Business context, insights, recommendations
 
 ---
 
