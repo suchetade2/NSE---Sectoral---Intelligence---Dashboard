@@ -1,4 +1,4 @@
-# NSE---Sectoral---Intelligence---Dashboard
+# Indian-Stock-Market-Sectoral-Perfomance-Risk-Analysis
 21 years of NSE stock market analysis using Excel, MySQL and Tableau
 
 # 📈 21 Years of the Indian Stock Market — A Data Story
