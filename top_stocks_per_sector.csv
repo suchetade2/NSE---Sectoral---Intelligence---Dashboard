@@ -1,0 +1,42 @@
+Symbol,Sector,Annual_Return,Sector_Rank
+EICHERMOT,Auto,33.32,1
+MARUTI,Auto,28.61,2
+TATAMOTORS,Auto,16.15,3
+BAJAJ-AUTO,Auto,15.23,4
+HEROMOTOCO,Auto,14.01,5
+BAJFINANCE,"Banking & Finance",39.38,1
+INDUSINDBK,"Banking & Finance",33.82,2
+AXISBANK,"Banking & Finance",30.03,3
+KOTAKBANK,"Banking & Finance",29.44,4
+BAJAJFINSV,"Banking & Finance",26.34,5
+TITAN,"FMCG & Consumer",30.75,1
+ASIANPAINT,"FMCG & Consumer",20.54,2
+NESTLEIND,"FMCG & Consumer",19.71,3
+BRITANNIA,"FMCG & Consumer",15.42,4
+HINDUNILVR,"FMCG & Consumer",11.46,5
+HCLTECH,"Information Technology",20.11,1
+TECHM,"Information Technology",19.76,2
+TCS,"Information Technology",16.2,3
+WIPRO,"Information Technology",5.87,4
+INFY,"Information Technology",3.4,5
+LT,"Infra & Cement",1922.98,1
+ULTRACEMCO,"Infra & Cement",177.18,2
+SHREECEM,"Infra & Cement",38.94,3
+POWERGRID,"Infra & Cement",17.3,4
+GRASIM,"Infra & Cement",15.99,5
+JSWSTEEL,Metals,263.61,1
+VEDL,Metals,27.89,2
+TATASTEEL,Metals,19.32,3
+HINDALCO,Metals,17.68,4
+RELIANCE,"Oil & Gas",18.22,1
+BPCL,"Oil & Gas",12.52,2
+GAIL,"Oil & Gas",11.82,3
+ONGC,"Oil & Gas",7.55,4
+IOC,"Oil & Gas",5.09,5
+UPL,Others,334.52,1
+ADANIPORTS,Others,22.24,2
+BHARTIARTL,Others,21.43,3
+ZEEL,Others,5.81,4
+DRREDDY,Pharma,13.68,1
+SUNPHARMA,Pharma,10.44,2
+CIPLA,Pharma,8.56,3

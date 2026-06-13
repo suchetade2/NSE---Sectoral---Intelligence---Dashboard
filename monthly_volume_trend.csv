@@ -1,0 +1,2305 @@
+Sector,Year,Month,Month_Year,Avg_Volume_Millions
+Auto,2000,1,Jan-2000,0.37
+Auto,2000,10,Oct-2000,0.13
+Auto,2000,11,Nov-2000,0.4
+Auto,2000,12,Dec-2000,0.73
+Auto,2000,2,Feb-2000,0.22
+Auto,2000,3,Mar-2000,0.25
+Auto,2000,4,Apr-2000,0.27
+Auto,2000,5,May-2000,0.21
+Auto,2000,6,Jun-2000,0.29
+Auto,2000,7,Jul-2000,0.26
+Auto,2000,8,Aug-2000,0.27
+Auto,2000,9,Sep-2000,0.18
+Auto,2001,1,Jan-2001,0.86
+Auto,2001,10,Oct-2001,0.25
+Auto,2001,11,Nov-2001,0.62
+Auto,2001,12,Dec-2001,0.23
+Auto,2001,2,Feb-2001,1.41
+Auto,2001,3,Mar-2001,0.48
+Auto,2001,4,Apr-2001,0.39
+Auto,2001,5,May-2001,0.27
+Auto,2001,6,Jun-2001,0.19
+Auto,2001,7,Jul-2001,0.12
+Auto,2001,8,Aug-2001,0.13
+Auto,2001,9,Sep-2001,0.11
+Auto,2002,1,Jan-2002,0.59
+Auto,2002,10,Oct-2002,0.51
+Auto,2002,11,Nov-2002,0.91
+Auto,2002,12,Dec-2002,0.84
+Auto,2002,2,Feb-2002,0.71
+Auto,2002,3,Mar-2002,0.39
+Auto,2002,4,Apr-2002,0.37
+Auto,2002,5,May-2002,0.42
+Auto,2002,6,Jun-2002,1.08
+Auto,2002,7,Jul-2002,0.76
+Auto,2002,8,Aug-2002,0.67
+Auto,2002,9,Sep-2002,0.45
+Auto,2003,1,Jan-2003,0.72
+Auto,2003,10,Oct-2003,2.91
+Auto,2003,11,Nov-2003,2.91
+Auto,2003,12,Dec-2003,1.76
+Auto,2003,2,Feb-2003,0.7
+Auto,2003,3,Mar-2003,0.62
+Auto,2003,4,Apr-2003,0.6
+Auto,2003,5,May-2003,0.81
+Auto,2003,6,Jun-2003,1.01
+Auto,2003,7,Jul-2003,2.57
+Auto,2003,8,Aug-2003,2.34
+Auto,2003,9,Sep-2003,1.75
+Auto,2004,1,Jan-2004,2.82
+Auto,2004,10,Oct-2004,1.64
+Auto,2004,11,Nov-2004,1.27
+Auto,2004,12,Dec-2004,1.35
+Auto,2004,2,Feb-2004,3.84
+Auto,2004,3,Mar-2004,2.67
+Auto,2004,4,Apr-2004,1.93
+Auto,2004,5,May-2004,2.94
+Auto,2004,6,Jun-2004,3.2
+Auto,2004,7,Jul-2004,3.02
+Auto,2004,8,Aug-2004,2.67
+Auto,2004,9,Sep-2004,2.65
+Auto,2005,1,Jan-2005,1.27
+Auto,2005,10,Oct-2005,0.99
+Auto,2005,11,Nov-2005,0.92
+Auto,2005,12,Dec-2005,1.02
+Auto,2005,2,Feb-2005,1.17
+Auto,2005,3,Mar-2005,1.04
+Auto,2005,4,Apr-2005,1.03
+Auto,2005,5,May-2005,0.91
+Auto,2005,6,Jun-2005,0.68
+Auto,2005,7,Jul-2005,0.64
+Auto,2005,8,Aug-2005,0.75
+Auto,2005,9,Sep-2005,0.83
+Auto,2006,1,Jan-2006,0.74
+Auto,2006,10,Oct-2006,0.62
+Auto,2006,11,Nov-2006,0.68
+Auto,2006,12,Dec-2006,0.61
+Auto,2006,2,Feb-2006,1.06
+Auto,2006,3,Mar-2006,1.38
+Auto,2006,4,Apr-2006,0.89
+Auto,2006,5,May-2006,0.92
+Auto,2006,6,Jun-2006,1.02
+Auto,2006,7,Jul-2006,0.88
+Auto,2006,8,Aug-2006,0.76
+Auto,2006,9,Sep-2006,0.77
+Auto,2007,1,Jan-2007,0.71
+Auto,2007,10,Oct-2007,0.82
+Auto,2007,11,Nov-2007,0.45
+Auto,2007,12,Dec-2007,0.52
+Auto,2007,2,Feb-2007,0.59
+Auto,2007,3,Mar-2007,0.8
+Auto,2007,4,Apr-2007,0.73
+Auto,2007,5,May-2007,0.6
+Auto,2007,6,Jun-2007,0.62
+Auto,2007,7,Jul-2007,0.66
+Auto,2007,8,Aug-2007,0.67
+Auto,2007,9,Sep-2007,0.6
+Auto,2008,1,Jan-2008,0.6
+Auto,2008,10,Oct-2008,0.69
+Auto,2008,11,Nov-2008,0.81
+Auto,2008,12,Dec-2008,0.85
+Auto,2008,2,Feb-2008,0.43
+Auto,2008,3,Mar-2008,0.65
+Auto,2008,4,Apr-2008,0.43
+Auto,2008,5,May-2008,0.58
+Auto,2008,6,Jun-2008,0.38
+Auto,2008,7,Jul-2008,0.37
+Auto,2008,8,Aug-2008,0.44
+Auto,2008,9,Sep-2008,0.51
+Auto,2009,1,Jan-2009,0.74
+Auto,2009,10,Oct-2009,1.36
+Auto,2009,11,Nov-2009,1.16
+Auto,2009,12,Dec-2009,0.93
+Auto,2009,2,Feb-2009,0.85
+Auto,2009,3,Mar-2009,1.5
+Auto,2009,4,Apr-2009,1.98
+Auto,2009,5,May-2009,1.33
+Auto,2009,6,Jun-2009,1.25
+Auto,2009,7,Jul-2009,1.39
+Auto,2009,8,Aug-2009,1.84
+Auto,2009,9,Sep-2009,1.42
+Auto,2010,1,Jan-2010,1.01
+Auto,2010,10,Oct-2010,0.98
+Auto,2010,11,Nov-2010,1.07
+Auto,2010,12,Dec-2010,1.28
+Auto,2010,2,Feb-2010,0.82
+Auto,2010,3,Mar-2010,1.26
+Auto,2010,4,Apr-2010,1.46
+Auto,2010,5,May-2010,1.41
+Auto,2010,6,Jun-2010,1.23
+Auto,2010,7,Jul-2010,1.03
+Auto,2010,8,Aug-2010,1.24
+Auto,2010,9,Sep-2010,1
+Auto,2011,1,Jan-2011,1.14
+Auto,2011,10,Oct-2011,3.14
+Auto,2011,11,Nov-2011,3.51
+Auto,2011,12,Dec-2011,2.77
+Auto,2011,2,Feb-2011,1.31
+Auto,2011,3,Mar-2011,0.94
+Auto,2011,4,Apr-2011,0.73
+Auto,2011,5,May-2011,0.9
+Auto,2011,6,Jun-2011,0.85
+Auto,2011,7,Jul-2011,0.71
+Auto,2011,8,Aug-2011,1.19
+Auto,2011,9,Sep-2011,2.57
+Auto,2012,1,Jan-2012,3.47
+Auto,2012,10,Oct-2012,1.71
+Auto,2012,11,Nov-2012,2.5
+Auto,2012,12,Dec-2012,2.03
+Auto,2012,2,Feb-2012,3.54
+Auto,2012,3,Mar-2012,2.55
+Auto,2012,4,Apr-2012,1.78
+Auto,2012,5,May-2012,2.73
+Auto,2012,6,Jun-2012,2.75
+Auto,2012,7,Jul-2012,2.19
+Auto,2012,8,Aug-2012,2.11
+Auto,2012,9,Sep-2012,2.2
+Auto,2013,1,Jan-2013,2.11
+Auto,2013,10,Oct-2013,1.75
+Auto,2013,11,Nov-2013,1.55
+Auto,2013,12,Dec-2013,1.4
+Auto,2013,2,Feb-2013,1.91
+Auto,2013,3,Mar-2013,2.17
+Auto,2013,4,Apr-2013,1.86
+Auto,2013,5,May-2013,1.6
+Auto,2013,6,Jun-2013,1.86
+Auto,2013,7,Jul-2013,1.54
+Auto,2013,8,Aug-2013,2.3
+Auto,2013,9,Sep-2013,1.72
+Auto,2014,1,Jan-2014,1.29
+Auto,2014,10,Oct-2014,1.13
+Auto,2014,11,Nov-2014,1.24
+Auto,2014,12,Dec-2014,0.96
+Auto,2014,2,Feb-2014,1.6
+Auto,2014,3,Mar-2014,1.25
+Auto,2014,4,Apr-2014,1.09
+Auto,2014,5,May-2014,1.41
+Auto,2014,6,Jun-2014,1.27
+Auto,2014,7,Jul-2014,1.31
+Auto,2014,8,Aug-2014,1.51
+Auto,2014,9,Sep-2014,1.39
+Auto,2015,1,Jan-2015,1.34
+Auto,2015,10,Oct-2015,2.31
+Auto,2015,11,Nov-2015,2.06
+Auto,2015,12,Dec-2015,1.5
+Auto,2015,2,Feb-2015,1.42
+Auto,2015,3,Mar-2015,1.15
+Auto,2015,4,Apr-2015,1.17
+Auto,2015,5,May-2015,1.47
+Auto,2015,6,Jun-2015,1.58
+Auto,2015,7,Jul-2015,1.68
+Auto,2015,8,Aug-2015,1.97
+Auto,2015,9,Sep-2015,1.94
+Auto,2016,1,Jan-2016,1.89
+Auto,2016,10,Oct-2016,1.29
+Auto,2016,11,Nov-2016,1.87
+Auto,2016,12,Dec-2016,1.69
+Auto,2016,2,Feb-2016,2.41
+Auto,2016,3,Mar-2016,1.98
+Auto,2016,4,Apr-2016,1.67
+Auto,2016,5,May-2016,2.76
+Auto,2016,6,Jun-2016,2.22
+Auto,2016,7,Jul-2016,1.45
+Auto,2016,8,Aug-2016,1.62
+Auto,2016,9,Sep-2016,1.77
+Auto,2017,1,Jan-2017,1.2
+Auto,2017,10,Oct-2017,1.29
+Auto,2017,11,Nov-2017,2.27
+Auto,2017,12,Dec-2017,1.82
+Auto,2017,2,Feb-2017,1.81
+Auto,2017,3,Mar-2017,1.45
+Auto,2017,4,Apr-2017,1.37
+Auto,2017,5,May-2017,1.52
+Auto,2017,6,Jun-2017,1.29
+Auto,2017,7,Jul-2017,1.16
+Auto,2017,8,Aug-2017,1.56
+Auto,2017,9,Sep-2017,1.72
+Auto,2018,1,Jan-2018,1.83
+Auto,2018,10,Oct-2018,4.5
+Auto,2018,11,Nov-2018,3.6
+Auto,2018,12,Dec-2018,3.34
+Auto,2018,2,Feb-2018,2.23
+Auto,2018,3,Mar-2018,1.99
+Auto,2018,4,Apr-2018,2.53
+Auto,2018,5,May-2018,2.94
+Auto,2018,6,Jun-2018,2.89
+Auto,2018,7,Jul-2018,2.44
+Auto,2018,8,Aug-2018,3.04
+Auto,2018,9,Sep-2018,3.18
+Auto,2019,1,Jan-2019,3.2
+Auto,2019,10,Oct-2019,10.75
+Auto,2019,11,Nov-2019,5.6
+Auto,2019,12,Dec-2019,7.46
+Auto,2019,2,Feb-2019,4.53
+Auto,2019,3,Mar-2019,4.11
+Auto,2019,4,Apr-2019,8.02
+Auto,2019,5,May-2019,5.26
+Auto,2019,6,Jun-2019,3.66
+Auto,2019,7,Jul-2019,5.24
+Auto,2019,8,Aug-2019,8.63
+Auto,2019,9,Sep-2019,10.95
+Auto,2020,1,Jan-2020,7.16
+Auto,2020,10,Oct-2020,11.92
+Auto,2020,11,Nov-2020,12.98
+Auto,2020,12,Dec-2020,10.55
+Auto,2020,2,Feb-2020,9.89
+Auto,2020,3,Mar-2020,14.63
+Auto,2020,4,Apr-2020,12.9
+Auto,2020,5,May-2020,12.35
+Auto,2020,6,Jun-2020,17.75
+Auto,2020,7,Jul-2020,10.81
+Auto,2020,8,Aug-2020,16.6
+Auto,2020,9,Sep-2020,14.03
+Auto,2021,1,Jan-2021,27.92
+Auto,2021,2,Feb-2021,18.84
+Auto,2021,3,Mar-2021,12.94
+Auto,2021,4,Apr-2021,11.42
+"Banking & Finance",2000,1,Jan-2000,0.58
+"Banking & Finance",2000,10,Oct-2000,0.13
+"Banking & Finance",2000,11,Nov-2000,0.29
+"Banking & Finance",2000,12,Dec-2000,0.35
+"Banking & Finance",2000,2,Feb-2000,0.57
+"Banking & Finance",2000,3,Mar-2000,0.45
+"Banking & Finance",2000,4,Apr-2000,0.83
+"Banking & Finance",2000,5,May-2000,0.32
+"Banking & Finance",2000,6,Jun-2000,0.42
+"Banking & Finance",2000,7,Jul-2000,0.33
+"Banking & Finance",2000,8,Aug-2000,0.17
+"Banking & Finance",2000,9,Sep-2000,0.16
+"Banking & Finance",2001,1,Jan-2001,0.56
+"Banking & Finance",2001,10,Oct-2001,0.09
+"Banking & Finance",2001,11,Nov-2001,0.08
+"Banking & Finance",2001,12,Dec-2001,0.08
+"Banking & Finance",2001,2,Feb-2001,0.74
+"Banking & Finance",2001,3,Mar-2001,0.37
+"Banking & Finance",2001,4,Apr-2001,0.19
+"Banking & Finance",2001,5,May-2001,0.26
+"Banking & Finance",2001,6,Jun-2001,0.19
+"Banking & Finance",2001,7,Jul-2001,0.09
+"Banking & Finance",2001,8,Aug-2001,0.06
+"Banking & Finance",2001,9,Sep-2001,0.09
+"Banking & Finance",2002,1,Jan-2002,0.11
+"Banking & Finance",2002,10,Oct-2002,0.09
+"Banking & Finance",2002,11,Nov-2002,0.24
+"Banking & Finance",2002,12,Dec-2002,0.48
+"Banking & Finance",2002,2,Feb-2002,0.54
+"Banking & Finance",2002,3,Mar-2002,0.28
+"Banking & Finance",2002,4,Apr-2002,0.15
+"Banking & Finance",2002,5,May-2002,0.13
+"Banking & Finance",2002,6,Jun-2002,0.19
+"Banking & Finance",2002,7,Jul-2002,0.13
+"Banking & Finance",2002,8,Aug-2002,0.07
+"Banking & Finance",2002,9,Sep-2002,0.09
+"Banking & Finance",2003,1,Jan-2003,0.46
+"Banking & Finance",2003,10,Oct-2003,0.91
+"Banking & Finance",2003,11,Nov-2003,0.67
+"Banking & Finance",2003,12,Dec-2003,0.84
+"Banking & Finance",2003,2,Feb-2003,0.65
+"Banking & Finance",2003,3,Mar-2003,0.35
+"Banking & Finance",2003,4,Apr-2003,0.33
+"Banking & Finance",2003,5,May-2003,0.6
+"Banking & Finance",2003,6,Jun-2003,0.76
+"Banking & Finance",2003,7,Jul-2003,1.02
+"Banking & Finance",2003,8,Aug-2003,1.2
+"Banking & Finance",2003,9,Sep-2003,0.86
+"Banking & Finance",2004,1,Jan-2004,1.33
+"Banking & Finance",2004,10,Oct-2004,0.53
+"Banking & Finance",2004,11,Nov-2004,0.62
+"Banking & Finance",2004,12,Dec-2004,0.96
+"Banking & Finance",2004,2,Feb-2004,1.27
+"Banking & Finance",2004,3,Mar-2004,0.84
+"Banking & Finance",2004,4,Apr-2004,1.11
+"Banking & Finance",2004,5,May-2004,1.31
+"Banking & Finance",2004,6,Jun-2004,1.15
+"Banking & Finance",2004,7,Jul-2004,0.91
+"Banking & Finance",2004,8,Aug-2004,0.6
+"Banking & Finance",2004,9,Sep-2004,0.63
+"Banking & Finance",2005,1,Jan-2005,0.86
+"Banking & Finance",2005,10,Oct-2005,0.87
+"Banking & Finance",2005,11,Nov-2005,0.74
+"Banking & Finance",2005,12,Dec-2005,0.89
+"Banking & Finance",2005,2,Feb-2005,0.74
+"Banking & Finance",2005,3,Mar-2005,0.77
+"Banking & Finance",2005,4,Apr-2005,0.58
+"Banking & Finance",2005,5,May-2005,0.65
+"Banking & Finance",2005,6,Jun-2005,0.82
+"Banking & Finance",2005,7,Jul-2005,0.88
+"Banking & Finance",2005,8,Aug-2005,0.75
+"Banking & Finance",2005,9,Sep-2005,0.71
+"Banking & Finance",2006,1,Jan-2006,0.96
+"Banking & Finance",2006,10,Oct-2006,0.52
+"Banking & Finance",2006,11,Nov-2006,0.74
+"Banking & Finance",2006,12,Dec-2006,0.65
+"Banking & Finance",2006,2,Feb-2006,0.65
+"Banking & Finance",2006,3,Mar-2006,0.74
+"Banking & Finance",2006,4,Apr-2006,0.69
+"Banking & Finance",2006,5,May-2006,0.78
+"Banking & Finance",2006,6,Jun-2006,0.71
+"Banking & Finance",2006,7,Jul-2006,0.6
+"Banking & Finance",2006,8,Aug-2006,0.61
+"Banking & Finance",2006,9,Sep-2006,0.63
+"Banking & Finance",2007,1,Jan-2007,0.81
+"Banking & Finance",2007,10,Oct-2007,1.62
+"Banking & Finance",2007,11,Nov-2007,1.25
+"Banking & Finance",2007,12,Dec-2007,0.93
+"Banking & Finance",2007,2,Feb-2007,0.92
+"Banking & Finance",2007,3,Mar-2007,0.81
+"Banking & Finance",2007,4,Apr-2007,0.79
+"Banking & Finance",2007,5,May-2007,0.94
+"Banking & Finance",2007,6,Jun-2007,0.76
+"Banking & Finance",2007,7,Jul-2007,0.83
+"Banking & Finance",2007,8,Aug-2007,1.16
+"Banking & Finance",2007,9,Sep-2007,1.21
+"Banking & Finance",2008,1,Jan-2008,1.32
+"Banking & Finance",2008,10,Oct-2008,3.24
+"Banking & Finance",2008,11,Nov-2008,2.98
+"Banking & Finance",2008,12,Dec-2008,2.61
+"Banking & Finance",2008,2,Feb-2008,0.99
+"Banking & Finance",2008,3,Mar-2008,1.64
+"Banking & Finance",2008,4,Apr-2008,1.24
+"Banking & Finance",2008,5,May-2008,1.39
+"Banking & Finance",2008,6,Jun-2008,1.32
+"Banking & Finance",2008,7,Jul-2008,2.07
+"Banking & Finance",2008,8,Aug-2008,1.98
+"Banking & Finance",2008,9,Sep-2008,2.74
+"Banking & Finance",2009,1,Jan-2009,2.23
+"Banking & Finance",2009,10,Oct-2009,1.73
+"Banking & Finance",2009,11,Nov-2009,1.42
+"Banking & Finance",2009,12,Dec-2009,1.21
+"Banking & Finance",2009,2,Feb-2009,2.05
+"Banking & Finance",2009,3,Mar-2009,4.46
+"Banking & Finance",2009,4,Apr-2009,3.97
+"Banking & Finance",2009,5,May-2009,3.45
+"Banking & Finance",2009,6,Jun-2009,2.57
+"Banking & Finance",2009,7,Jul-2009,2.43
+"Banking & Finance",2009,8,Aug-2009,1.73
+"Banking & Finance",2009,9,Sep-2009,1.5
+"Banking & Finance",2010,1,Jan-2010,1.4
+"Banking & Finance",2010,10,Oct-2010,1.53
+"Banking & Finance",2010,11,Nov-2010,1.76
+"Banking & Finance",2010,12,Dec-2010,1.47
+"Banking & Finance",2010,2,Feb-2010,1.12
+"Banking & Finance",2010,3,Mar-2010,1.19
+"Banking & Finance",2010,4,Apr-2010,1.21
+"Banking & Finance",2010,5,May-2010,1.48
+"Banking & Finance",2010,6,Jun-2010,1.2
+"Banking & Finance",2010,7,Jul-2010,0.93
+"Banking & Finance",2010,8,Aug-2010,1.22
+"Banking & Finance",2010,9,Sep-2010,1.6
+"Banking & Finance",2011,1,Jan-2011,1.82
+"Banking & Finance",2011,10,Oct-2011,2.05
+"Banking & Finance",2011,11,Nov-2011,2.13
+"Banking & Finance",2011,12,Dec-2011,2.11
+"Banking & Finance",2011,2,Feb-2011,1.75
+"Banking & Finance",2011,3,Mar-2011,1.55
+"Banking & Finance",2011,4,Apr-2011,1.38
+"Banking & Finance",2011,5,May-2011,1.41
+"Banking & Finance",2011,6,Jun-2011,1.2
+"Banking & Finance",2011,7,Jul-2011,1.24
+"Banking & Finance",2011,8,Aug-2011,1.84
+"Banking & Finance",2011,9,Sep-2011,1.9
+"Banking & Finance",2012,1,Jan-2012,1.76
+"Banking & Finance",2012,10,Oct-2012,1.84
+"Banking & Finance",2012,11,Nov-2012,1.38
+"Banking & Finance",2012,12,Dec-2012,1.38
+"Banking & Finance",2012,2,Feb-2012,3.2
+"Banking & Finance",2012,3,Mar-2012,1.99
+"Banking & Finance",2012,4,Apr-2012,1.5
+"Banking & Finance",2012,5,May-2012,1.91
+"Banking & Finance",2012,6,Jun-2012,1.7
+"Banking & Finance",2012,7,Jul-2012,1.62
+"Banking & Finance",2012,8,Aug-2012,1.84
+"Banking & Finance",2012,9,Sep-2012,1.88
+"Banking & Finance",2013,1,Jan-2013,1.51
+"Banking & Finance",2013,10,Oct-2013,2.15
+"Banking & Finance",2013,11,Nov-2013,1.72
+"Banking & Finance",2013,12,Dec-2013,1.63
+"Banking & Finance",2013,2,Feb-2013,1.49
+"Banking & Finance",2013,3,Mar-2013,1.89
+"Banking & Finance",2013,4,Apr-2013,1.79
+"Banking & Finance",2013,5,May-2013,1.51
+"Banking & Finance",2013,6,Jun-2013,1.75
+"Banking & Finance",2013,7,Jul-2013,2
+"Banking & Finance",2013,8,Aug-2013,3.41
+"Banking & Finance",2013,9,Sep-2013,3.13
+"Banking & Finance",2014,1,Jan-2014,1.67
+"Banking & Finance",2014,10,Oct-2014,1.48
+"Banking & Finance",2014,11,Nov-2014,2.51
+"Banking & Finance",2014,12,Dec-2014,3.51
+"Banking & Finance",2014,2,Feb-2014,1.3
+"Banking & Finance",2014,3,Mar-2014,1.99
+"Banking & Finance",2014,4,Apr-2014,1.68
+"Banking & Finance",2014,5,May-2014,2.09
+"Banking & Finance",2014,6,Jun-2014,1.48
+"Banking & Finance",2014,7,Jul-2014,1.5
+"Banking & Finance",2014,8,Aug-2014,1.57
+"Banking & Finance",2014,9,Sep-2014,1.5
+"Banking & Finance",2015,1,Jan-2015,4.39
+"Banking & Finance",2015,10,Oct-2015,3.94
+"Banking & Finance",2015,11,Nov-2015,4
+"Banking & Finance",2015,12,Dec-2015,3.78
+"Banking & Finance",2015,2,Feb-2015,5.53
+"Banking & Finance",2015,3,Mar-2015,5.04
+"Banking & Finance",2015,4,Apr-2015,4.56
+"Banking & Finance",2015,5,May-2015,4.34
+"Banking & Finance",2015,6,Jun-2015,4.62
+"Banking & Finance",2015,7,Jul-2015,3.75
+"Banking & Finance",2015,8,Aug-2015,5.32
+"Banking & Finance",2015,9,Sep-2015,5.29
+"Banking & Finance",2016,1,Jan-2016,6.04
+"Banking & Finance",2016,10,Oct-2016,5.5
+"Banking & Finance",2016,11,Nov-2016,7.19
+"Banking & Finance",2016,12,Dec-2016,4.13
+"Banking & Finance",2016,2,Feb-2016,8.8
+"Banking & Finance",2016,3,Mar-2016,6.89
+"Banking & Finance",2016,4,Apr-2016,7.1
+"Banking & Finance",2016,5,May-2016,6.77
+"Banking & Finance",2016,6,Jun-2016,6.52
+"Banking & Finance",2016,7,Jul-2016,4.9
+"Banking & Finance",2016,8,Aug-2016,6.26
+"Banking & Finance",2016,9,Sep-2016,5.95
+"Banking & Finance",2017,1,Jan-2017,5.32
+"Banking & Finance",2017,10,Oct-2017,8.79
+"Banking & Finance",2017,11,Nov-2017,6.36
+"Banking & Finance",2017,12,Dec-2017,4.42
+"Banking & Finance",2017,2,Feb-2017,6.27
+"Banking & Finance",2017,3,Mar-2017,5.29
+"Banking & Finance",2017,4,Apr-2017,5.1
+"Banking & Finance",2017,5,May-2017,6.83
+"Banking & Finance",2017,6,Jun-2017,4.6
+"Banking & Finance",2017,7,Jul-2017,4.56
+"Banking & Finance",2017,8,Aug-2017,4.54
+"Banking & Finance",2017,9,Sep-2017,4.44
+"Banking & Finance",2018,1,Jan-2018,5.99
+"Banking & Finance",2018,10,Oct-2018,9.86
+"Banking & Finance",2018,11,Nov-2018,7.54
+"Banking & Finance",2018,12,Dec-2018,6.08
+"Banking & Finance",2018,2,Feb-2018,6.44
+"Banking & Finance",2018,3,Mar-2018,7.05
+"Banking & Finance",2018,4,Apr-2018,6.72
+"Banking & Finance",2018,5,May-2018,6.69
+"Banking & Finance",2018,6,Jun-2018,6.07
+"Banking & Finance",2018,7,Jul-2018,6.3
+"Banking & Finance",2018,8,Aug-2018,8.28
+"Banking & Finance",2018,9,Sep-2018,8.1
+"Banking & Finance",2019,1,Jan-2019,6.63
+"Banking & Finance",2019,10,Oct-2019,11.9
+"Banking & Finance",2019,11,Nov-2019,11.43
+"Banking & Finance",2019,12,Dec-2019,8.11
+"Banking & Finance",2019,2,Feb-2019,6.65
+"Banking & Finance",2019,3,Mar-2019,7.64
+"Banking & Finance",2019,4,Apr-2019,5.92
+"Banking & Finance",2019,5,May-2019,8.62
+"Banking & Finance",2019,6,Jun-2019,6.35
+"Banking & Finance",2019,7,Jul-2019,6.7
+"Banking & Finance",2019,8,Aug-2019,9.28
+"Banking & Finance",2019,9,Sep-2019,11.05
+"Banking & Finance",2020,1,Jan-2020,8.6
+"Banking & Finance",2020,10,Oct-2020,16.01
+"Banking & Finance",2020,11,Nov-2020,23.05
+"Banking & Finance",2020,12,Dec-2020,13.34
+"Banking & Finance",2020,2,Feb-2020,9.92
+"Banking & Finance",2020,3,Mar-2020,26.24
+"Banking & Finance",2020,4,Apr-2020,25.99
+"Banking & Finance",2020,5,May-2020,26.25
+"Banking & Finance",2020,6,Jun-2020,29.23
+"Banking & Finance",2020,7,Jul-2020,23.09
+"Banking & Finance",2020,8,Aug-2020,20.53
+"Banking & Finance",2020,9,Sep-2020,15.56
+"Banking & Finance",2021,1,Jan-2021,12.56
+"Banking & Finance",2021,2,Feb-2021,18.21
+"Banking & Finance",2021,3,Mar-2021,11.71
+"Banking & Finance",2021,4,Apr-2021,14.22
+"FMCG & Consumer",2000,1,Jan-2000,0.24
+"FMCG & Consumer",2000,10,Oct-2000,0.47
+"FMCG & Consumer",2000,11,Nov-2000,0.5
+"FMCG & Consumer",2000,12,Dec-2000,0.78
+"FMCG & Consumer",2000,2,Feb-2000,0.21
+"FMCG & Consumer",2000,3,Mar-2000,0.16
+"FMCG & Consumer",2000,4,Apr-2000,0.18
+"FMCG & Consumer",2000,5,May-2000,0.24
+"FMCG & Consumer",2000,6,Jun-2000,0.21
+"FMCG & Consumer",2000,7,Jul-2000,0.53
+"FMCG & Consumer",2000,8,Aug-2000,0.36
+"FMCG & Consumer",2000,9,Sep-2000,0.41
+"FMCG & Consumer",2001,1,Jan-2001,0.76
+"FMCG & Consumer",2001,10,Oct-2001,0.51
+"FMCG & Consumer",2001,11,Nov-2001,0.36
+"FMCG & Consumer",2001,12,Dec-2001,0.25
+"FMCG & Consumer",2001,2,Feb-2001,1.11
+"FMCG & Consumer",2001,3,Mar-2001,0.46
+"FMCG & Consumer",2001,4,Apr-2001,0.31
+"FMCG & Consumer",2001,5,May-2001,0.19
+"FMCG & Consumer",2001,6,Jun-2001,0.28
+"FMCG & Consumer",2001,7,Jul-2001,0.26
+"FMCG & Consumer",2001,8,Aug-2001,0.2
+"FMCG & Consumer",2001,9,Sep-2001,0.52
+"FMCG & Consumer",2002,1,Jan-2002,0.2
+"FMCG & Consumer",2002,10,Oct-2002,0.29
+"FMCG & Consumer",2002,11,Nov-2002,0.38
+"FMCG & Consumer",2002,12,Dec-2002,0.28
+"FMCG & Consumer",2002,2,Feb-2002,0.32
+"FMCG & Consumer",2002,3,Mar-2002,0.22
+"FMCG & Consumer",2002,4,Apr-2002,0.35
+"FMCG & Consumer",2002,5,May-2002,0.23
+"FMCG & Consumer",2002,6,Jun-2002,0.37
+"FMCG & Consumer",2002,7,Jul-2002,0.31
+"FMCG & Consumer",2002,8,Aug-2002,0.31
+"FMCG & Consumer",2002,9,Sep-2002,0.21
+"FMCG & Consumer",2003,1,Jan-2003,0.25
+"FMCG & Consumer",2003,10,Oct-2003,0.75
+"FMCG & Consumer",2003,11,Nov-2003,0.53
+"FMCG & Consumer",2003,12,Dec-2003,0.82
+"FMCG & Consumer",2003,2,Feb-2003,0.23
+"FMCG & Consumer",2003,3,Mar-2003,0.24
+"FMCG & Consumer",2003,4,Apr-2003,0.43
+"FMCG & Consumer",2003,5,May-2003,0.39
+"FMCG & Consumer",2003,6,Jun-2003,0.5
+"FMCG & Consumer",2003,7,Jul-2003,0.52
+"FMCG & Consumer",2003,8,Aug-2003,0.81
+"FMCG & Consumer",2003,9,Sep-2003,0.62
+"FMCG & Consumer",2004,1,Jan-2004,0.74
+"FMCG & Consumer",2004,10,Oct-2004,0.46
+"FMCG & Consumer",2004,11,Nov-2004,0.51
+"FMCG & Consumer",2004,12,Dec-2004,0.5
+"FMCG & Consumer",2004,2,Feb-2004,0.69
+"FMCG & Consumer",2004,3,Mar-2004,0.87
+"FMCG & Consumer",2004,4,Apr-2004,0.55
+"FMCG & Consumer",2004,5,May-2004,0.58
+"FMCG & Consumer",2004,6,Jun-2004,0.39
+"FMCG & Consumer",2004,7,Jul-2004,0.56
+"FMCG & Consumer",2004,8,Aug-2004,0.62
+"FMCG & Consumer",2004,9,Sep-2004,0.61
+"FMCG & Consumer",2005,1,Jan-2005,0.56
+"FMCG & Consumer",2005,10,Oct-2005,2.58
+"FMCG & Consumer",2005,11,Nov-2005,2.86
+"FMCG & Consumer",2005,12,Dec-2005,2.51
+"FMCG & Consumer",2005,2,Feb-2005,0.69
+"FMCG & Consumer",2005,3,Mar-2005,0.62
+"FMCG & Consumer",2005,4,Apr-2005,0.58
+"FMCG & Consumer",2005,5,May-2005,0.67
+"FMCG & Consumer",2005,6,Jun-2005,0.83
+"FMCG & Consumer",2005,7,Jul-2005,1.02
+"FMCG & Consumer",2005,8,Aug-2005,0.94
+"FMCG & Consumer",2005,9,Sep-2005,1.74
+"FMCG & Consumer",2006,1,Jan-2006,1.92
+"FMCG & Consumer",2006,10,Oct-2006,1.61
+"FMCG & Consumer",2006,11,Nov-2006,1.57
+"FMCG & Consumer",2006,12,Dec-2006,1.55
+"FMCG & Consumer",2006,2,Feb-2006,2.86
+"FMCG & Consumer",2006,3,Mar-2006,2.32
+"FMCG & Consumer",2006,4,Apr-2006,2.33
+"FMCG & Consumer",2006,5,May-2006,2.36
+"FMCG & Consumer",2006,6,Jun-2006,2.6
+"FMCG & Consumer",2006,7,Jul-2006,1.98
+"FMCG & Consumer",2006,8,Aug-2006,1.7
+"FMCG & Consumer",2006,9,Sep-2006,1.47
+"FMCG & Consumer",2007,1,Jan-2007,1.88
+"FMCG & Consumer",2007,10,Oct-2007,1.84
+"FMCG & Consumer",2007,11,Nov-2007,1.59
+"FMCG & Consumer",2007,12,Dec-2007,1.54
+"FMCG & Consumer",2007,2,Feb-2007,1.79
+"FMCG & Consumer",2007,3,Mar-2007,2.64
+"FMCG & Consumer",2007,4,Apr-2007,1.6
+"FMCG & Consumer",2007,5,May-2007,1.36
+"FMCG & Consumer",2007,6,Jun-2007,1.51
+"FMCG & Consumer",2007,7,Jul-2007,2.17
+"FMCG & Consumer",2007,8,Aug-2007,1.51
+"FMCG & Consumer",2007,9,Sep-2007,1.59
+"FMCG & Consumer",2008,1,Jan-2008,2.3
+"FMCG & Consumer",2008,10,Oct-2008,3.22
+"FMCG & Consumer",2008,11,Nov-2008,1.91
+"FMCG & Consumer",2008,12,Dec-2008,1.5
+"FMCG & Consumer",2008,2,Feb-2008,1.34
+"FMCG & Consumer",2008,3,Mar-2008,2.23
+"FMCG & Consumer",2008,4,Apr-2008,1.28
+"FMCG & Consumer",2008,5,May-2008,1.53
+"FMCG & Consumer",2008,6,Jun-2008,1.48
+"FMCG & Consumer",2008,7,Jul-2008,1.74
+"FMCG & Consumer",2008,8,Aug-2008,1.22
+"FMCG & Consumer",2008,9,Sep-2008,1.73
+"FMCG & Consumer",2009,1,Jan-2009,1.57
+"FMCG & Consumer",2009,10,Oct-2009,1.43
+"FMCG & Consumer",2009,11,Nov-2009,1.31
+"FMCG & Consumer",2009,12,Dec-2009,1.08
+"FMCG & Consumer",2009,2,Feb-2009,1.13
+"FMCG & Consumer",2009,3,Mar-2009,1.79
+"FMCG & Consumer",2009,4,Apr-2009,2.26
+"FMCG & Consumer",2009,5,May-2009,2.53
+"FMCG & Consumer",2009,6,Jun-2009,2.65
+"FMCG & Consumer",2009,7,Jul-2009,2.23
+"FMCG & Consumer",2009,8,Aug-2009,1.62
+"FMCG & Consumer",2009,9,Sep-2009,1.8
+"FMCG & Consumer",2010,1,Jan-2010,1.38
+"FMCG & Consumer",2010,10,Oct-2010,1.77
+"FMCG & Consumer",2010,11,Nov-2010,1.59
+"FMCG & Consumer",2010,12,Dec-2010,1.35
+"FMCG & Consumer",2010,2,Feb-2010,1.18
+"FMCG & Consumer",2010,3,Mar-2010,1.29
+"FMCG & Consumer",2010,4,Apr-2010,0.99
+"FMCG & Consumer",2010,5,May-2010,0.97
+"FMCG & Consumer",2010,6,Jun-2010,0.97
+"FMCG & Consumer",2010,7,Jul-2010,0.8
+"FMCG & Consumer",2010,8,Aug-2010,1.15
+"FMCG & Consumer",2010,9,Sep-2010,1.82
+"FMCG & Consumer",2011,1,Jan-2011,1.77
+"FMCG & Consumer",2011,10,Oct-2011,2.29
+"FMCG & Consumer",2011,11,Nov-2011,2.47
+"FMCG & Consumer",2011,12,Dec-2011,2.29
+"FMCG & Consumer",2011,2,Feb-2011,1.81
+"FMCG & Consumer",2011,3,Mar-2011,1.68
+"FMCG & Consumer",2011,4,Apr-2011,1.58
+"FMCG & Consumer",2011,5,May-2011,1.68
+"FMCG & Consumer",2011,6,Jun-2011,1.85
+"FMCG & Consumer",2011,7,Jul-2011,2.18
+"FMCG & Consumer",2011,8,Aug-2011,2.43
+"FMCG & Consumer",2011,9,Sep-2011,2.4
+"FMCG & Consumer",2012,1,Jan-2012,2.06
+"FMCG & Consumer",2012,10,Oct-2012,1.48
+"FMCG & Consumer",2012,11,Nov-2012,1.37
+"FMCG & Consumer",2012,12,Dec-2012,1.7
+"FMCG & Consumer",2012,2,Feb-2012,2.56
+"FMCG & Consumer",2012,3,Mar-2012,2.48
+"FMCG & Consumer",2012,4,Apr-2012,1.67
+"FMCG & Consumer",2012,5,May-2012,1.97
+"FMCG & Consumer",2012,6,Jun-2012,1.73
+"FMCG & Consumer",2012,7,Jul-2012,1.63
+"FMCG & Consumer",2012,8,Aug-2012,1.45
+"FMCG & Consumer",2012,9,Sep-2012,1.84
+"FMCG & Consumer",2013,1,Jan-2013,2.35
+"FMCG & Consumer",2013,10,Oct-2013,1.93
+"FMCG & Consumer",2013,11,Nov-2013,1.64
+"FMCG & Consumer",2013,12,Dec-2013,1.6
+"FMCG & Consumer",2013,2,Feb-2013,2.01
+"FMCG & Consumer",2013,3,Mar-2013,2.37
+"FMCG & Consumer",2013,4,Apr-2013,2.05
+"FMCG & Consumer",2013,5,May-2013,1.7
+"FMCG & Consumer",2013,6,Jun-2013,2.71
+"FMCG & Consumer",2013,7,Jul-2013,2.44
+"FMCG & Consumer",2013,8,Aug-2013,2.7
+"FMCG & Consumer",2013,9,Sep-2013,2.19
+"FMCG & Consumer",2014,1,Jan-2014,1.57
+"FMCG & Consumer",2014,10,Oct-2014,1.43
+"FMCG & Consumer",2014,11,Nov-2014,1.84
+"FMCG & Consumer",2014,12,Dec-2014,1.75
+"FMCG & Consumer",2014,2,Feb-2014,1.37
+"FMCG & Consumer",2014,3,Mar-2014,1.7
+"FMCG & Consumer",2014,4,Apr-2014,1.57
+"FMCG & Consumer",2014,5,May-2014,2.09
+"FMCG & Consumer",2014,6,Jun-2014,2.18
+"FMCG & Consumer",2014,7,Jul-2014,1.76
+"FMCG & Consumer",2014,8,Aug-2014,1.24
+"FMCG & Consumer",2014,9,Sep-2014,1.51
+"FMCG & Consumer",2015,1,Jan-2015,2.66
+"FMCG & Consumer",2015,10,Oct-2015,1.67
+"FMCG & Consumer",2015,11,Nov-2015,1.55
+"FMCG & Consumer",2015,12,Dec-2015,1.71
+"FMCG & Consumer",2015,2,Feb-2015,2.21
+"FMCG & Consumer",2015,3,Mar-2015,2.67
+"FMCG & Consumer",2015,4,Apr-2015,1.9
+"FMCG & Consumer",2015,5,May-2015,2.06
+"FMCG & Consumer",2015,6,Jun-2015,1.72
+"FMCG & Consumer",2015,7,Jul-2015,1.45
+"FMCG & Consumer",2015,8,Aug-2015,1.9
+"FMCG & Consumer",2015,9,Sep-2015,1.69
+"FMCG & Consumer",2016,1,Jan-2016,1.77
+"FMCG & Consumer",2016,10,Oct-2016,2.14
+"FMCG & Consumer",2016,11,Nov-2016,3.33
+"FMCG & Consumer",2016,12,Dec-2016,1.99
+"FMCG & Consumer",2016,2,Feb-2016,2.07
+"FMCG & Consumer",2016,3,Mar-2016,2.69
+"FMCG & Consumer",2016,4,Apr-2016,1.71
+"FMCG & Consumer",2016,5,May-2016,2.4
+"FMCG & Consumer",2016,6,Jun-2016,1.77
+"FMCG & Consumer",2016,7,Jul-2016,2.19
+"FMCG & Consumer",2016,8,Aug-2016,1.88
+"FMCG & Consumer",2016,9,Sep-2016,2.03
+"FMCG & Consumer",2017,1,Jan-2017,2.11
+"FMCG & Consumer",2017,10,Oct-2017,2.09
+"FMCG & Consumer",2017,11,Nov-2017,2.71
+"FMCG & Consumer",2017,12,Dec-2017,2.08
+"FMCG & Consumer",2017,2,Feb-2017,2.68
+"FMCG & Consumer",2017,3,Mar-2017,2.68
+"FMCG & Consumer",2017,4,Apr-2017,2.08
+"FMCG & Consumer",2017,5,May-2017,2.84
+"FMCG & Consumer",2017,6,Jun-2017,2.53
+"FMCG & Consumer",2017,7,Jul-2017,4.34
+"FMCG & Consumer",2017,8,Aug-2017,2.59
+"FMCG & Consumer",2017,9,Sep-2017,2.72
+"FMCG & Consumer",2018,1,Jan-2018,3.06
+"FMCG & Consumer",2018,10,Oct-2018,3.18
+"FMCG & Consumer",2018,11,Nov-2018,2.49
+"FMCG & Consumer",2018,12,Dec-2018,2.66
+"FMCG & Consumer",2018,2,Feb-2018,3.36
+"FMCG & Consumer",2018,3,Mar-2018,2.56
+"FMCG & Consumer",2018,4,Apr-2018,2.31
+"FMCG & Consumer",2018,5,May-2018,2.31
+"FMCG & Consumer",2018,6,Jun-2018,2.3
+"FMCG & Consumer",2018,7,Jul-2018,3.66
+"FMCG & Consumer",2018,8,Aug-2018,2.92
+"FMCG & Consumer",2018,9,Sep-2018,3.4
+"FMCG & Consumer",2019,1,Jan-2019,2.78
+"FMCG & Consumer",2019,10,Oct-2019,3.88
+"FMCG & Consumer",2019,11,Nov-2019,2.91
+"FMCG & Consumer",2019,12,Dec-2019,2.72
+"FMCG & Consumer",2019,2,Feb-2019,3.66
+"FMCG & Consumer",2019,3,Mar-2019,3.1
+"FMCG & Consumer",2019,4,Apr-2019,2.42
+"FMCG & Consumer",2019,5,May-2019,3.19
+"FMCG & Consumer",2019,6,Jun-2019,2.61
+"FMCG & Consumer",2019,7,Jul-2019,2.99
+"FMCG & Consumer",2019,8,Aug-2019,3.04
+"FMCG & Consumer",2019,9,Sep-2019,4.02
+"FMCG & Consumer",2020,1,Jan-2020,2.39
+"FMCG & Consumer",2020,10,Oct-2020,5.69
+"FMCG & Consumer",2020,11,Nov-2020,7.09
+"FMCG & Consumer",2020,12,Dec-2020,6.17
+"FMCG & Consumer",2020,2,Feb-2020,4.89
+"FMCG & Consumer",2020,3,Mar-2020,8.77
+"FMCG & Consumer",2020,4,Apr-2020,7.3
+"FMCG & Consumer",2020,5,May-2020,9.09
+"FMCG & Consumer",2020,6,Jun-2020,7.81
+"FMCG & Consumer",2020,7,Jul-2020,5.99
+"FMCG & Consumer",2020,8,Aug-2020,6
+"FMCG & Consumer",2020,9,Sep-2020,6.25
+"FMCG & Consumer",2021,1,Jan-2021,7.73
+"FMCG & Consumer",2021,2,Feb-2021,9.82
+"FMCG & Consumer",2021,3,Mar-2021,7.84
+"FMCG & Consumer",2021,4,Apr-2021,4.3
+"Information Technology",2000,1,Jan-2000,0.16
+"Information Technology",2000,10,Oct-2000,0.49
+"Information Technology",2000,11,Nov-2000,0.41
+"Information Technology",2000,12,Dec-2000,0.77
+"Information Technology",2000,2,Feb-2000,0.14
+"Information Technology",2000,3,Mar-2000,0.1
+"Information Technology",2000,4,Apr-2000,0.13
+"Information Technology",2000,5,May-2000,0.31
+"Information Technology",2000,6,Jun-2000,0.31
+"Information Technology",2000,7,Jul-2000,0.31
+"Information Technology",2000,8,Aug-2000,0.42
+"Information Technology",2000,9,Sep-2000,0.46
+"Information Technology",2001,1,Jan-2001,0.8
+"Information Technology",2001,10,Oct-2001,3.69
+"Information Technology",2001,11,Nov-2001,1.91
+"Information Technology",2001,12,Dec-2001,1.87
+"Information Technology",2001,2,Feb-2001,0.65
+"Information Technology",2001,3,Mar-2001,0.58
+"Information Technology",2001,4,Apr-2001,0.71
+"Information Technology",2001,5,May-2001,0.73
+"Information Technology",2001,6,Jun-2001,1
+"Information Technology",2001,7,Jul-2001,0.69
+"Information Technology",2001,8,Aug-2001,1.35
+"Information Technology",2001,9,Sep-2001,2.98
+"Information Technology",2002,1,Jan-2002,2.07
+"Information Technology",2002,10,Oct-2002,1.85
+"Information Technology",2002,11,Nov-2002,1.4
+"Information Technology",2002,12,Dec-2002,1.03
+"Information Technology",2002,2,Feb-2002,1.07
+"Information Technology",2002,3,Mar-2002,0.89
+"Information Technology",2002,4,Apr-2002,0.68
+"Information Technology",2002,5,May-2002,0.46
+"Information Technology",2002,6,Jun-2002,0.43
+"Information Technology",2002,7,Jul-2002,0.6
+"Information Technology",2002,8,Aug-2002,0.86
+"Information Technology",2002,9,Sep-2002,1.11
+"Information Technology",2003,1,Jan-2003,0.8
+"Information Technology",2003,10,Oct-2003,1.01
+"Information Technology",2003,11,Nov-2003,1.06
+"Information Technology",2003,12,Dec-2003,0.8
+"Information Technology",2003,2,Feb-2003,0.57
+"Information Technology",2003,3,Mar-2003,0.61
+"Information Technology",2003,4,Apr-2003,1.39
+"Information Technology",2003,5,May-2003,1.13
+"Information Technology",2003,6,Jun-2003,0.88
+"Information Technology",2003,7,Jul-2003,0.83
+"Information Technology",2003,8,Aug-2003,0.8
+"Information Technology",2003,9,Sep-2003,1.48
+"Information Technology",2004,1,Jan-2004,0.8
+"Information Technology",2004,10,Oct-2004,1.17
+"Information Technology",2004,11,Nov-2004,0.81
+"Information Technology",2004,12,Dec-2004,0.71
+"Information Technology",2004,2,Feb-2004,0.76
+"Information Technology",2004,3,Mar-2004,0.63
+"Information Technology",2004,4,Apr-2004,0.55
+"Information Technology",2004,5,May-2004,0.57
+"Information Technology",2004,6,Jun-2004,0.61
+"Information Technology",2004,7,Jul-2004,1.19
+"Information Technology",2004,8,Aug-2004,1.44
+"Information Technology",2004,9,Sep-2004,1.04
+"Information Technology",2005,1,Jan-2005,1
+"Information Technology",2005,10,Oct-2005,1.01
+"Information Technology",2005,11,Nov-2005,0.79
+"Information Technology",2005,12,Dec-2005,0.85
+"Information Technology",2005,2,Feb-2005,0.62
+"Information Technology",2005,3,Mar-2005,0.61
+"Information Technology",2005,4,Apr-2005,0.95
+"Information Technology",2005,5,May-2005,0.66
+"Information Technology",2005,6,Jun-2005,0.64
+"Information Technology",2005,7,Jul-2005,0.66
+"Information Technology",2005,8,Aug-2005,0.61
+"Information Technology",2005,9,Sep-2005,0.7
+"Information Technology",2006,1,Jan-2006,0.85
+"Information Technology",2006,10,Oct-2006,1.25
+"Information Technology",2006,11,Nov-2006,0.89
+"Information Technology",2006,12,Dec-2006,0.99
+"Information Technology",2006,2,Feb-2006,0.72
+"Information Technology",2006,3,Mar-2006,0.74
+"Information Technology",2006,4,Apr-2006,1.12
+"Information Technology",2006,5,May-2006,0.74
+"Information Technology",2006,6,Jun-2006,0.84
+"Information Technology",2006,7,Jul-2006,1.07
+"Information Technology",2006,8,Aug-2006,0.96
+"Information Technology",2006,9,Sep-2006,0.73
+"Information Technology",2007,1,Jan-2007,1.07
+"Information Technology",2007,10,Oct-2007,1.26
+"Information Technology",2007,11,Nov-2007,0.97
+"Information Technology",2007,12,Dec-2007,0.75
+"Information Technology",2007,2,Feb-2007,0.84
+"Information Technology",2007,3,Mar-2007,1.18
+"Information Technology",2007,4,Apr-2007,1.18
+"Information Technology",2007,5,May-2007,1.07
+"Information Technology",2007,6,Jun-2007,0.77
+"Information Technology",2007,7,Jul-2007,0.94
+"Information Technology",2007,8,Aug-2007,0.87
+"Information Technology",2007,9,Sep-2007,0.94
+"Information Technology",2008,1,Jan-2008,0.89
+"Information Technology",2008,10,Oct-2008,1.53
+"Information Technology",2008,11,Nov-2008,1.3
+"Information Technology",2008,12,Dec-2008,1.39
+"Information Technology",2008,2,Feb-2008,0.65
+"Information Technology",2008,3,Mar-2008,0.86
+"Information Technology",2008,4,Apr-2008,1.29
+"Information Technology",2008,5,May-2008,1.25
+"Information Technology",2008,6,Jun-2008,1
+"Information Technology",2008,7,Jul-2008,1.09
+"Information Technology",2008,8,Aug-2008,0.74
+"Information Technology",2008,9,Sep-2008,1.1
+"Information Technology",2009,1,Jan-2009,1.58
+"Information Technology",2009,10,Oct-2009,1.54
+"Information Technology",2009,11,Nov-2009,1.14
+"Information Technology",2009,12,Dec-2009,1.07
+"Information Technology",2009,2,Feb-2009,0.99
+"Information Technology",2009,3,Mar-2009,1.16
+"Information Technology",2009,4,Apr-2009,2.03
+"Information Technology",2009,5,May-2009,1.84
+"Information Technology",2009,6,Jun-2009,1.97
+"Information Technology",2009,7,Jul-2009,2.02
+"Information Technology",2009,8,Aug-2009,1.81
+"Information Technology",2009,9,Sep-2009,1.61
+"Information Technology",2010,1,Jan-2010,1.58
+"Information Technology",2010,10,Oct-2010,1.18
+"Information Technology",2010,11,Nov-2010,0.8
+"Information Technology",2010,12,Dec-2010,0.96
+"Information Technology",2010,2,Feb-2010,0.82
+"Information Technology",2010,3,Mar-2010,0.92
+"Information Technology",2010,4,Apr-2010,1.36
+"Information Technology",2010,5,May-2010,0.92
+"Information Technology",2010,6,Jun-2010,0.94
+"Information Technology",2010,7,Jul-2010,1.05
+"Information Technology",2010,8,Aug-2010,0.81
+"Information Technology",2010,9,Sep-2010,1.17
+"Information Technology",2011,1,Jan-2011,1.23
+"Information Technology",2011,10,Oct-2011,1.33
+"Information Technology",2011,11,Nov-2011,1.08
+"Information Technology",2011,12,Dec-2011,1.14
+"Information Technology",2011,2,Feb-2011,1.13
+"Information Technology",2011,3,Mar-2011,1.01
+"Information Technology",2011,4,Apr-2011,1.44
+"Information Technology",2011,5,May-2011,0.76
+"Information Technology",2011,6,Jun-2011,0.81
+"Information Technology",2011,7,Jul-2011,0.95
+"Information Technology",2011,8,Aug-2011,1.38
+"Information Technology",2011,9,Sep-2011,1.35
+"Information Technology",2012,1,Jan-2012,1.19
+"Information Technology",2012,10,Oct-2012,1.2
+"Information Technology",2012,11,Nov-2012,0.95
+"Information Technology",2012,12,Dec-2012,0.98
+"Information Technology",2012,2,Feb-2012,0.95
+"Information Technology",2012,3,Mar-2012,1.02
+"Information Technology",2012,4,Apr-2012,1.42
+"Information Technology",2012,5,May-2012,0.95
+"Information Technology",2012,6,Jun-2012,0.84
+"Information Technology",2012,7,Jul-2012,1.22
+"Information Technology",2012,8,Aug-2012,0.88
+"Information Technology",2012,9,Sep-2012,1.18
+"Information Technology",2013,1,Jan-2013,1.51
+"Information Technology",2013,10,Oct-2013,1.74
+"Information Technology",2013,11,Nov-2013,1.19
+"Information Technology",2013,12,Dec-2013,1.14
+"Information Technology",2013,2,Feb-2013,1.15
+"Information Technology",2013,3,Mar-2013,1.27
+"Information Technology",2013,4,Apr-2013,1.77
+"Information Technology",2013,5,May-2013,1.05
+"Information Technology",2013,6,Jun-2013,1.12
+"Information Technology",2013,7,Jul-2013,1.35
+"Information Technology",2013,8,Aug-2013,1.64
+"Information Technology",2013,9,Sep-2013,1.63
+"Information Technology",2014,1,Jan-2014,1.28
+"Information Technology",2014,10,Oct-2014,1.54
+"Information Technology",2014,11,Nov-2014,1.09
+"Information Technology",2014,12,Dec-2014,1.64
+"Information Technology",2014,2,Feb-2014,1.14
+"Information Technology",2014,3,Mar-2014,1.38
+"Information Technology",2014,4,Apr-2014,1.43
+"Information Technology",2014,5,May-2014,1.47
+"Information Technology",2014,6,Jun-2014,1.21
+"Information Technology",2014,7,Jul-2014,1.11
+"Information Technology",2014,8,Aug-2014,0.98
+"Information Technology",2014,9,Sep-2014,0.9
+"Information Technology",2015,1,Jan-2015,1.59
+"Information Technology",2015,10,Oct-2015,2.48
+"Information Technology",2015,11,Nov-2015,1.57
+"Information Technology",2015,12,Dec-2015,1.36
+"Information Technology",2015,2,Feb-2015,1.3
+"Information Technology",2015,3,Mar-2015,1.79
+"Information Technology",2015,4,Apr-2015,2.44
+"Information Technology",2015,5,May-2015,2.12
+"Information Technology",2015,6,Jun-2015,1.95
+"Information Technology",2015,7,Jul-2015,2.06
+"Information Technology",2015,8,Aug-2015,2.12
+"Information Technology",2015,9,Sep-2015,1.89
+"Information Technology",2016,1,Jan-2016,1.91
+"Information Technology",2016,10,Oct-2016,2.18
+"Information Technology",2016,11,Nov-2016,2.54
+"Information Technology",2016,12,Dec-2016,1.49
+"Information Technology",2016,2,Feb-2016,1.48
+"Information Technology",2016,3,Mar-2016,2.31
+"Information Technology",2016,4,Apr-2016,2.19
+"Information Technology",2016,5,May-2016,1.92
+"Information Technology",2016,6,Jun-2016,1.81
+"Information Technology",2016,7,Jul-2016,2.2
+"Information Technology",2016,8,Aug-2016,2.05
+"Information Technology",2016,9,Sep-2016,1.95
+"Information Technology",2017,1,Jan-2017,2.38
+"Information Technology",2017,10,Oct-2017,2.11
+"Information Technology",2017,11,Nov-2017,2.07
+"Information Technology",2017,12,Dec-2017,2.31
+"Information Technology",2017,2,Feb-2017,2.67
+"Information Technology",2017,3,Mar-2017,2.02
+"Information Technology",2017,4,Apr-2017,2.16
+"Information Technology",2017,5,May-2017,2.05
+"Information Technology",2017,6,Jun-2017,2.21
+"Information Technology",2017,7,Jul-2017,2.28
+"Information Technology",2017,8,Aug-2017,4.39
+"Information Technology",2017,9,Sep-2017,2.5
+"Information Technology",2018,1,Jan-2018,3.14
+"Information Technology",2018,10,Oct-2018,4.4
+"Information Technology",2018,11,Nov-2018,3.88
+"Information Technology",2018,12,Dec-2018,3.8
+"Information Technology",2018,2,Feb-2018,2.88
+"Information Technology",2018,3,Mar-2018,3.21
+"Information Technology",2018,4,Apr-2018,3.29
+"Information Technology",2018,5,May-2018,2.64
+"Information Technology",2018,6,Jun-2018,3.04
+"Information Technology",2018,7,Jul-2018,3.83
+"Information Technology",2018,8,Aug-2018,2.86
+"Information Technology",2018,9,Sep-2018,4.9
+"Information Technology",2019,1,Jan-2019,4.5
+"Information Technology",2019,10,Oct-2019,6.27
+"Information Technology",2019,11,Nov-2019,4.13
+"Information Technology",2019,12,Dec-2019,3.66
+"Information Technology",2019,2,Feb-2019,3.77
+"Information Technology",2019,3,Mar-2019,4.94
+"Information Technology",2019,4,Apr-2019,5.35
+"Information Technology",2019,5,May-2019,4.75
+"Information Technology",2019,6,Jun-2019,4.01
+"Information Technology",2019,7,Jul-2019,3.73
+"Information Technology",2019,8,Aug-2019,3.96
+"Information Technology",2019,9,Sep-2019,4.3
+"Information Technology",2020,1,Jan-2020,3.98
+"Information Technology",2020,10,Oct-2020,13.25
+"Information Technology",2020,11,Nov-2020,6.67
+"Information Technology",2020,12,Dec-2020,6.8
+"Information Technology",2020,2,Feb-2020,3.43
+"Information Technology",2020,3,Mar-2020,7.36
+"Information Technology",2020,4,Apr-2020,6.91
+"Information Technology",2020,5,May-2020,6.34
+"Information Technology",2020,6,Jun-2020,6.45
+"Information Technology",2020,7,Jul-2020,11.34
+"Information Technology",2020,8,Aug-2020,6.07
+"Information Technology",2020,9,Sep-2020,10.62
+"Information Technology",2021,1,Jan-2021,10.23
+"Information Technology",2021,2,Feb-2021,6.24
+"Information Technology",2021,3,Mar-2021,6.77
+"Information Technology",2021,4,Apr-2021,9.35
+"Infra & Cement",2000,1,Jan-2000,0.1
+"Infra & Cement",2000,10,Oct-2000,0.12
+"Infra & Cement",2000,11,Nov-2000,0.28
+"Infra & Cement",2000,12,Dec-2000,0.69
+"Infra & Cement",2000,2,Feb-2000,0.13
+"Infra & Cement",2000,3,Mar-2000,0.07
+"Infra & Cement",2000,4,Apr-2000,0.16
+"Infra & Cement",2000,5,May-2000,0.14
+"Infra & Cement",2000,6,Jun-2000,0.14
+"Infra & Cement",2000,7,Jul-2000,0.1
+"Infra & Cement",2000,8,Aug-2000,0.12
+"Infra & Cement",2000,9,Sep-2000,0.11
+"Infra & Cement",2001,1,Jan-2001,0.98
+"Infra & Cement",2001,10,Oct-2001,0.07
+"Infra & Cement",2001,11,Nov-2001,0.12
+"Infra & Cement",2001,12,Dec-2001,0.13
+"Infra & Cement",2001,2,Feb-2001,0.92
+"Infra & Cement",2001,3,Mar-2001,0.48
+"Infra & Cement",2001,4,Apr-2001,0.49
+"Infra & Cement",2001,5,May-2001,0.48
+"Infra & Cement",2001,6,Jun-2001,0.14
+"Infra & Cement",2001,7,Jul-2001,0.04
+"Infra & Cement",2001,8,Aug-2001,0.06
+"Infra & Cement",2001,9,Sep-2001,0.08
+"Infra & Cement",2002,1,Jan-2002,0.09
+"Infra & Cement",2002,10,Oct-2002,0.04
+"Infra & Cement",2002,11,Nov-2002,0.08
+"Infra & Cement",2002,12,Dec-2002,0.08
+"Infra & Cement",2002,2,Feb-2002,0.14
+"Infra & Cement",2002,3,Mar-2002,0.06
+"Infra & Cement",2002,4,Apr-2002,0.05
+"Infra & Cement",2002,5,May-2002,0.1
+"Infra & Cement",2002,6,Jun-2002,0.06
+"Infra & Cement",2002,7,Jul-2002,0.07
+"Infra & Cement",2002,8,Aug-2002,0.03
+"Infra & Cement",2002,9,Sep-2002,0.03
+"Infra & Cement",2003,1,Jan-2003,0.07
+"Infra & Cement",2003,10,Oct-2003,0.22
+"Infra & Cement",2003,11,Nov-2003,0.23
+"Infra & Cement",2003,12,Dec-2003,0.15
+"Infra & Cement",2003,2,Feb-2003,0.09
+"Infra & Cement",2003,3,Mar-2003,0.04
+"Infra & Cement",2003,4,Apr-2003,0.07
+"Infra & Cement",2003,5,May-2003,0.1
+"Infra & Cement",2003,6,Jun-2003,0.26
+"Infra & Cement",2003,7,Jul-2003,0.27
+"Infra & Cement",2003,8,Aug-2003,0.3
+"Infra & Cement",2003,9,Sep-2003,0.16
+"Infra & Cement",2004,1,Jan-2004,0.17
+"Infra & Cement",2004,10,Oct-2004,0.22
+"Infra & Cement",2004,11,Nov-2004,6.48
+"Infra & Cement",2004,12,Dec-2004,2.82
+"Infra & Cement",2004,2,Feb-2004,0.14
+"Infra & Cement",2004,3,Mar-2004,0.17
+"Infra & Cement",2004,4,Apr-2004,0.13
+"Infra & Cement",2004,5,May-2004,0.19
+"Infra & Cement",2004,6,Jun-2004,0.33
+"Infra & Cement",2004,7,Jul-2004,0.36
+"Infra & Cement",2004,8,Aug-2004,0.41
+"Infra & Cement",2004,9,Sep-2004,0.24
+"Infra & Cement",2005,1,Jan-2005,2.5
+"Infra & Cement",2005,10,Oct-2005,0.91
+"Infra & Cement",2005,11,Nov-2005,0.69
+"Infra & Cement",2005,12,Dec-2005,0.73
+"Infra & Cement",2005,2,Feb-2005,3
+"Infra & Cement",2005,3,Mar-2005,1.13
+"Infra & Cement",2005,4,Apr-2005,1.01
+"Infra & Cement",2005,5,May-2005,0.57
+"Infra & Cement",2005,6,Jun-2005,0.71
+"Infra & Cement",2005,7,Jul-2005,1.26
+"Infra & Cement",2005,8,Aug-2005,1.09
+"Infra & Cement",2005,9,Sep-2005,0.78
+"Infra & Cement",2006,1,Jan-2006,0.68
+"Infra & Cement",2006,10,Oct-2006,0.54
+"Infra & Cement",2006,11,Nov-2006,1.01
+"Infra & Cement",2006,12,Dec-2006,1.08
+"Infra & Cement",2006,2,Feb-2006,1.07
+"Infra & Cement",2006,3,Mar-2006,0.98
+"Infra & Cement",2006,4,Apr-2006,1.27
+"Infra & Cement",2006,5,May-2006,1.25
+"Infra & Cement",2006,6,Jun-2006,0.84
+"Infra & Cement",2006,7,Jul-2006,0.5
+"Infra & Cement",2006,8,Aug-2006,0.46
+"Infra & Cement",2006,9,Sep-2006,0.56
+"Infra & Cement",2007,1,Jan-2007,0.68
+"Infra & Cement",2007,10,Oct-2007,13.15
+"Infra & Cement",2007,11,Nov-2007,5
+"Infra & Cement",2007,12,Dec-2007,3.07
+"Infra & Cement",2007,2,Feb-2007,0.9
+"Infra & Cement",2007,3,Mar-2007,0.79
+"Infra & Cement",2007,4,Apr-2007,0.96
+"Infra & Cement",2007,5,May-2007,0.67
+"Infra & Cement",2007,6,Jun-2007,0.63
+"Infra & Cement",2007,7,Jul-2007,0.93
+"Infra & Cement",2007,8,Aug-2007,1
+"Infra & Cement",2007,9,Sep-2007,1.78
+"Infra & Cement",2008,1,Jan-2008,4.69
+"Infra & Cement",2008,10,Oct-2008,2.75
+"Infra & Cement",2008,11,Nov-2008,2.53
+"Infra & Cement",2008,12,Dec-2008,2.4
+"Infra & Cement",2008,2,Feb-2008,2.75
+"Infra & Cement",2008,3,Mar-2008,3.13
+"Infra & Cement",2008,4,Apr-2008,1.93
+"Infra & Cement",2008,5,May-2008,2.01
+"Infra & Cement",2008,6,Jun-2008,1.81
+"Infra & Cement",2008,7,Jul-2008,2.14
+"Infra & Cement",2008,8,Aug-2008,1.56
+"Infra & Cement",2008,9,Sep-2008,1.89
+"Infra & Cement",2009,1,Jan-2009,2.3
+"Infra & Cement",2009,10,Oct-2009,1.35
+"Infra & Cement",2009,11,Nov-2009,1.29
+"Infra & Cement",2009,12,Dec-2009,1.2
+"Infra & Cement",2009,2,Feb-2009,2.01
+"Infra & Cement",2009,3,Mar-2009,2.11
+"Infra & Cement",2009,4,Apr-2009,3.06
+"Infra & Cement",2009,5,May-2009,2.75
+"Infra & Cement",2009,6,Jun-2009,3.61
+"Infra & Cement",2009,7,Jul-2009,2.1
+"Infra & Cement",2009,8,Aug-2009,1.43
+"Infra & Cement",2009,9,Sep-2009,1.35
+"Infra & Cement",2010,1,Jan-2010,1.69
+"Infra & Cement",2010,10,Oct-2010,1.28
+"Infra & Cement",2010,11,Nov-2010,9.3
+"Infra & Cement",2010,12,Dec-2010,2.75
+"Infra & Cement",2010,2,Feb-2010,1.04
+"Infra & Cement",2010,3,Mar-2010,1.01
+"Infra & Cement",2010,4,Apr-2010,0.91
+"Infra & Cement",2010,5,May-2010,0.99
+"Infra & Cement",2010,6,Jun-2010,0.69
+"Infra & Cement",2010,7,Jul-2010,0.76
+"Infra & Cement",2010,8,Aug-2010,0.74
+"Infra & Cement",2010,9,Sep-2010,1.2
+"Infra & Cement",2011,1,Jan-2011,1.85
+"Infra & Cement",2011,10,Oct-2011,1.94
+"Infra & Cement",2011,11,Nov-2011,1.58
+"Infra & Cement",2011,12,Dec-2011,1.65
+"Infra & Cement",2011,2,Feb-2011,2.51
+"Infra & Cement",2011,3,Mar-2011,1.64
+"Infra & Cement",2011,4,Apr-2011,1.34
+"Infra & Cement",2011,5,May-2011,1.67
+"Infra & Cement",2011,6,Jun-2011,1.52
+"Infra & Cement",2011,7,Jul-2011,1.69
+"Infra & Cement",2011,8,Aug-2011,1.71
+"Infra & Cement",2011,9,Sep-2011,1.65
+"Infra & Cement",2012,1,Jan-2012,1.95
+"Infra & Cement",2012,10,Oct-2012,1.36
+"Infra & Cement",2012,11,Nov-2012,1.22
+"Infra & Cement",2012,12,Dec-2012,1.24
+"Infra & Cement",2012,2,Feb-2012,2.32
+"Infra & Cement",2012,3,Mar-2012,1.45
+"Infra & Cement",2012,4,Apr-2012,1.06
+"Infra & Cement",2012,5,May-2012,1.27
+"Infra & Cement",2012,6,Jun-2012,1.41
+"Infra & Cement",2012,7,Jul-2012,1.06
+"Infra & Cement",2012,8,Aug-2012,1.21
+"Infra & Cement",2012,9,Sep-2012,1.46
+"Infra & Cement",2013,1,Jan-2013,1.56
+"Infra & Cement",2013,10,Oct-2013,1.64
+"Infra & Cement",2013,11,Nov-2013,1.77
+"Infra & Cement",2013,12,Dec-2013,5.97
+"Infra & Cement",2013,2,Feb-2013,3.01
+"Infra & Cement",2013,3,Mar-2013,2.01
+"Infra & Cement",2013,4,Apr-2013,1.67
+"Infra & Cement",2013,5,May-2013,1.79
+"Infra & Cement",2013,6,Jun-2013,1.6
+"Infra & Cement",2013,7,Jul-2013,1.47
+"Infra & Cement",2013,8,Aug-2013,2.62
+"Infra & Cement",2013,9,Sep-2013,2.04
+"Infra & Cement",2014,1,Jan-2014,2.66
+"Infra & Cement",2014,10,Oct-2014,2.14
+"Infra & Cement",2014,11,Nov-2014,2.23
+"Infra & Cement",2014,12,Dec-2014,1.79
+"Infra & Cement",2014,2,Feb-2014,2.39
+"Infra & Cement",2014,3,Mar-2014,2.66
+"Infra & Cement",2014,4,Apr-2014,2.48
+"Infra & Cement",2014,5,May-2014,5.29
+"Infra & Cement",2014,6,Jun-2014,3.94
+"Infra & Cement",2014,7,Jul-2014,2.82
+"Infra & Cement",2014,8,Aug-2014,2.29
+"Infra & Cement",2014,9,Sep-2014,2.42
+"Infra & Cement",2015,1,Jan-2015,1.98
+"Infra & Cement",2015,10,Oct-2015,1.66
+"Infra & Cement",2015,11,Nov-2015,1.66
+"Infra & Cement",2015,12,Dec-2015,1.56
+"Infra & Cement",2015,2,Feb-2015,2.9
+"Infra & Cement",2015,3,Mar-2015,2.53
+"Infra & Cement",2015,4,Apr-2015,1.4
+"Infra & Cement",2015,5,May-2015,2.08
+"Infra & Cement",2015,6,Jun-2015,1.93
+"Infra & Cement",2015,7,Jul-2015,1.46
+"Infra & Cement",2015,8,Aug-2015,2.22
+"Infra & Cement",2015,9,Sep-2015,1.97
+"Infra & Cement",2016,1,Jan-2016,2.26
+"Infra & Cement",2016,10,Oct-2016,1.7
+"Infra & Cement",2016,11,Nov-2016,2.6
+"Infra & Cement",2016,12,Dec-2016,1.72
+"Infra & Cement",2016,2,Feb-2016,2.66
+"Infra & Cement",2016,3,Mar-2016,2.62
+"Infra & Cement",2016,4,Apr-2016,2.26
+"Infra & Cement",2016,5,May-2016,2.29
+"Infra & Cement",2016,6,Jun-2016,1.71
+"Infra & Cement",2016,7,Jul-2016,1.95
+"Infra & Cement",2016,8,Aug-2016,2.13
+"Infra & Cement",2016,9,Sep-2016,1.79
+"Infra & Cement",2017,1,Jan-2017,2.42
+"Infra & Cement",2017,10,Oct-2017,3.29
+"Infra & Cement",2017,11,Nov-2017,3.17
+"Infra & Cement",2017,12,Dec-2017,2.95
+"Infra & Cement",2017,2,Feb-2017,2.81
+"Infra & Cement",2017,3,Mar-2017,2.74
+"Infra & Cement",2017,4,Apr-2017,2.54
+"Infra & Cement",2017,5,May-2017,2.01
+"Infra & Cement",2017,6,Jun-2017,2.05
+"Infra & Cement",2017,7,Jul-2017,2.31
+"Infra & Cement",2017,8,Aug-2017,3.28
+"Infra & Cement",2017,9,Sep-2017,2.58
+"Infra & Cement",2018,1,Jan-2018,3.34
+"Infra & Cement",2018,10,Oct-2018,3.01
+"Infra & Cement",2018,11,Nov-2018,3.35
+"Infra & Cement",2018,12,Dec-2018,4.15
+"Infra & Cement",2018,2,Feb-2018,3.15
+"Infra & Cement",2018,3,Mar-2018,2.67
+"Infra & Cement",2018,4,Apr-2018,1.78
+"Infra & Cement",2018,5,May-2018,4.3
+"Infra & Cement",2018,6,Jun-2018,2.52
+"Infra & Cement",2018,7,Jul-2018,2.57
+"Infra & Cement",2018,8,Aug-2018,2.45
+"Infra & Cement",2018,9,Sep-2018,2.47
+"Infra & Cement",2019,1,Jan-2019,2.97
+"Infra & Cement",2019,10,Oct-2019,4.04
+"Infra & Cement",2019,11,Nov-2019,4.16
+"Infra & Cement",2019,12,Dec-2019,3.73
+"Infra & Cement",2019,2,Feb-2019,4.96
+"Infra & Cement",2019,3,Mar-2019,6.84
+"Infra & Cement",2019,4,Apr-2019,4.75
+"Infra & Cement",2019,5,May-2019,4.1
+"Infra & Cement",2019,6,Jun-2019,4.17
+"Infra & Cement",2019,7,Jul-2019,4.92
+"Infra & Cement",2019,8,Aug-2019,5.39
+"Infra & Cement",2019,9,Sep-2019,5.41
+"Infra & Cement",2020,1,Jan-2020,6.12
+"Infra & Cement",2020,10,Oct-2020,8.92
+"Infra & Cement",2020,11,Nov-2020,13.21
+"Infra & Cement",2020,12,Dec-2020,9.94
+"Infra & Cement",2020,2,Feb-2020,7.51
+"Infra & Cement",2020,3,Mar-2020,12.28
+"Infra & Cement",2020,4,Apr-2020,7.15
+"Infra & Cement",2020,5,May-2020,6.69
+"Infra & Cement",2020,6,Jun-2020,7.6
+"Infra & Cement",2020,7,Jul-2020,5.99
+"Infra & Cement",2020,8,Aug-2020,9.57
+"Infra & Cement",2020,9,Sep-2020,7.73
+"Infra & Cement",2021,1,Jan-2021,8.62
+"Infra & Cement",2021,2,Feb-2021,12.26
+"Infra & Cement",2021,3,Mar-2021,8.94
+"Infra & Cement",2021,4,Apr-2021,5.84
+Metals,2000,1,Jan-2000,1.41
+Metals,2000,10,Oct-2000,0.54
+Metals,2000,11,Nov-2000,1.29
+Metals,2000,12,Dec-2000,1.39
+Metals,2000,2,Feb-2000,0.68
+Metals,2000,3,Mar-2000,0.91
+Metals,2000,4,Apr-2000,1.17
+Metals,2000,5,May-2000,0.81
+Metals,2000,6,Jun-2000,0.95
+Metals,2000,7,Jul-2000,1.39
+Metals,2000,8,Aug-2000,0.62
+Metals,2000,9,Sep-2000,0.39
+Metals,2001,1,Jan-2001,1.5
+Metals,2001,10,Oct-2001,0.31
+Metals,2001,11,Nov-2001,0.43
+Metals,2001,12,Dec-2001,0.35
+Metals,2001,2,Feb-2001,2.68
+Metals,2001,3,Mar-2001,1.06
+Metals,2001,4,Apr-2001,0.73
+Metals,2001,5,May-2001,1.04
+Metals,2001,6,Jun-2001,0.81
+Metals,2001,7,Jul-2001,0.69
+Metals,2001,8,Aug-2001,0.25
+Metals,2001,9,Sep-2001,0.4
+Metals,2002,1,Jan-2002,0.4
+Metals,2002,10,Oct-2002,0.42
+Metals,2002,11,Nov-2002,1.07
+Metals,2002,12,Dec-2002,1.26
+Metals,2002,2,Feb-2002,0.59
+Metals,2002,3,Mar-2002,0.35
+Metals,2002,4,Apr-2002,0.31
+Metals,2002,5,May-2002,0.42
+Metals,2002,6,Jun-2002,1.43
+Metals,2002,7,Jul-2002,1.3
+Metals,2002,8,Aug-2002,0.96
+Metals,2002,9,Sep-2002,0.44
+Metals,2003,1,Jan-2003,1.54
+Metals,2003,10,Oct-2003,6.77
+Metals,2003,11,Nov-2003,4.48
+Metals,2003,12,Dec-2003,3.39
+Metals,2003,2,Feb-2003,1.7
+Metals,2003,3,Mar-2003,1.68
+Metals,2003,4,Apr-2003,1.13
+Metals,2003,5,May-2003,1.42
+Metals,2003,6,Jun-2003,2.41
+Metals,2003,7,Jul-2003,4.16
+Metals,2003,8,Aug-2003,5.71
+Metals,2003,9,Sep-2003,5.73
+Metals,2004,1,Jan-2004,4.28
+Metals,2004,10,Oct-2004,3.56
+Metals,2004,11,Nov-2004,2.23
+Metals,2004,12,Dec-2004,2.54
+Metals,2004,2,Feb-2004,5.43
+Metals,2004,3,Mar-2004,4.49
+Metals,2004,4,Apr-2004,3.6
+Metals,2004,5,May-2004,5.16
+Metals,2004,6,Jun-2004,4.31
+Metals,2004,7,Jul-2004,5.95
+Metals,2004,8,Aug-2004,4.84
+Metals,2004,9,Sep-2004,3.87
+Metals,2005,1,Jan-2005,3
+Metals,2005,10,Oct-2005,1.77
+Metals,2005,11,Nov-2005,1.68
+Metals,2005,12,Dec-2005,1.39
+Metals,2005,2,Feb-2005,3.34
+Metals,2005,3,Mar-2005,2.67
+Metals,2005,4,Apr-2005,1.97
+Metals,2005,5,May-2005,1.64
+Metals,2005,6,Jun-2005,1.73
+Metals,2005,7,Jul-2005,1.62
+Metals,2005,8,Aug-2005,1.63
+Metals,2005,9,Sep-2005,1.62
+Metals,2006,1,Jan-2006,1.26
+Metals,2006,10,Oct-2006,1.32
+Metals,2006,11,Nov-2006,1.02
+Metals,2006,12,Dec-2006,1.25
+Metals,2006,2,Feb-2006,1.3
+Metals,2006,3,Mar-2006,1.49
+Metals,2006,4,Apr-2006,1.75
+Metals,2006,5,May-2006,2.12
+Metals,2006,6,Jun-2006,1.92
+Metals,2006,7,Jul-2006,1.62
+Metals,2006,8,Aug-2006,1.05
+Metals,2006,9,Sep-2006,0.97
+Metals,2007,1,Jan-2007,1.48
+Metals,2007,10,Oct-2007,2.03
+Metals,2007,11,Nov-2007,1.84
+Metals,2007,12,Dec-2007,1.65
+Metals,2007,2,Feb-2007,1.93
+Metals,2007,3,Mar-2007,1.44
+Metals,2007,4,Apr-2007,2.38
+Metals,2007,5,May-2007,1.38
+Metals,2007,6,Jun-2007,0.73
+Metals,2007,7,Jul-2007,0.97
+Metals,2007,8,Aug-2007,1.35
+Metals,2007,9,Sep-2007,1.6
+Metals,2008,1,Jan-2008,1.36
+Metals,2008,10,Oct-2008,6.19
+Metals,2008,11,Nov-2008,6.62
+Metals,2008,12,Dec-2008,5.44
+Metals,2008,2,Feb-2008,1.53
+Metals,2008,3,Mar-2008,1.84
+Metals,2008,4,Apr-2008,1.25
+Metals,2008,5,May-2008,1.91
+Metals,2008,6,Jun-2008,1.48
+Metals,2008,7,Jul-2008,1.75
+Metals,2008,8,Aug-2008,2.57
+Metals,2008,9,Sep-2008,4.21
+Metals,2009,1,Jan-2009,4.62
+Metals,2009,10,Oct-2009,7.43
+Metals,2009,11,Nov-2009,7.37
+Metals,2009,12,Dec-2009,6.4
+Metals,2009,2,Feb-2009,4.34
+Metals,2009,3,Mar-2009,6.5
+Metals,2009,4,Apr-2009,9.43
+Metals,2009,5,May-2009,9.26
+Metals,2009,6,Jun-2009,11.23
+Metals,2009,7,Jul-2009,8.26
+Metals,2009,8,Aug-2009,8.8
+Metals,2009,9,Sep-2009,8.43
+Metals,2010,1,Jan-2010,6.52
+Metals,2010,10,Oct-2010,5.02
+Metals,2010,11,Nov-2010,4.11
+Metals,2010,12,Dec-2010,4.11
+Metals,2010,2,Feb-2010,6.49
+Metals,2010,3,Mar-2010,5.09
+Metals,2010,4,Apr-2010,4.21
+Metals,2010,5,May-2010,8.08
+Metals,2010,6,Jun-2010,8.4
+Metals,2010,7,Jul-2010,5.09
+Metals,2010,8,Aug-2010,4.59
+Metals,2010,9,Sep-2010,4.95
+Metals,2011,1,Jan-2011,5.09
+Metals,2011,10,Oct-2011,4.92
+Metals,2011,11,Nov-2011,4.41
+Metals,2011,12,Dec-2011,4.74
+Metals,2011,2,Feb-2011,5.62
+Metals,2011,3,Mar-2011,4.31
+Metals,2011,4,Apr-2011,3.22
+Metals,2011,5,May-2011,2.94
+Metals,2011,6,Jun-2011,2.77
+Metals,2011,7,Jul-2011,3.08
+Metals,2011,8,Aug-2011,4.89
+Metals,2011,9,Sep-2011,4.41
+Metals,2012,1,Jan-2012,5.51
+Metals,2012,10,Oct-2012,3.05
+Metals,2012,11,Nov-2012,2.48
+Metals,2012,12,Dec-2012,3.56
+Metals,2012,2,Feb-2012,7.3
+Metals,2012,3,Mar-2012,5.42
+Metals,2012,4,Apr-2012,3.83
+Metals,2012,5,May-2012,4.77
+Metals,2012,6,Jun-2012,3.46
+Metals,2012,7,Jul-2012,3.28
+Metals,2012,8,Aug-2012,3.36
+Metals,2012,9,Sep-2012,4.31
+Metals,2013,1,Jan-2013,3.18
+Metals,2013,10,Oct-2013,6.32
+Metals,2013,11,Nov-2013,5.18
+Metals,2013,12,Dec-2013,4.48
+Metals,2013,2,Feb-2013,3.5
+Metals,2013,3,Mar-2013,3.89
+Metals,2013,4,Apr-2013,3.4
+Metals,2013,5,May-2013,3.58
+Metals,2013,6,Jun-2013,3.58
+Metals,2013,7,Jul-2013,3.2
+Metals,2013,8,Aug-2013,7.25
+Metals,2013,9,Sep-2013,7
+Metals,2014,1,Jan-2014,3.61
+Metals,2014,10,Oct-2014,5.24
+Metals,2014,11,Nov-2014,4.61
+Metals,2014,12,Dec-2014,4.2
+Metals,2014,2,Feb-2014,5.03
+Metals,2014,3,Mar-2014,5.73
+Metals,2014,4,Apr-2014,5.13
+Metals,2014,5,May-2014,7.76
+Metals,2014,6,Jun-2014,6.42
+Metals,2014,7,Jul-2014,5.98
+Metals,2014,8,Aug-2014,5.26
+Metals,2014,9,Sep-2014,4.94
+Metals,2015,1,Jan-2015,4.28
+Metals,2015,10,Oct-2015,9.51
+Metals,2015,11,Nov-2015,6.32
+Metals,2015,12,Dec-2015,6.23
+Metals,2015,2,Feb-2015,3.98
+Metals,2015,3,Mar-2015,4.09
+Metals,2015,4,Apr-2015,4.39
+Metals,2015,5,May-2015,4.15
+Metals,2015,6,Jun-2015,3.4
+Metals,2015,7,Jul-2015,4.14
+Metals,2015,8,Aug-2015,6.72
+Metals,2015,9,Sep-2015,6.42
+Metals,2016,1,Jan-2016,8.93
+Metals,2016,10,Oct-2016,6.91
+Metals,2016,11,Nov-2016,10.06
+Metals,2016,12,Dec-2016,5.67
+Metals,2016,2,Feb-2016,10.79
+Metals,2016,3,Mar-2016,12.04
+Metals,2016,4,Apr-2016,10.59
+Metals,2016,5,May-2016,9.34
+Metals,2016,6,Jun-2016,8.67
+Metals,2016,7,Jul-2016,10.2
+Metals,2016,8,Aug-2016,7.06
+Metals,2016,9,Sep-2016,6.92
+Metals,2017,1,Jan-2017,8.16
+Metals,2017,10,Oct-2017,6.02
+Metals,2017,11,Nov-2017,5.02
+Metals,2017,12,Dec-2017,6.57
+Metals,2017,2,Feb-2017,7.92
+Metals,2017,3,Mar-2017,9.15
+Metals,2017,4,Apr-2017,9.15
+Metals,2017,5,May-2017,11.33
+Metals,2017,6,Jun-2017,7.65
+Metals,2017,7,Jul-2017,6.76
+Metals,2017,8,Aug-2017,8.22
+Metals,2017,9,Sep-2017,7.04
+Metals,2018,1,Jan-2018,6.48
+Metals,2018,10,Oct-2018,9.87
+Metals,2018,11,Nov-2018,8.89
+Metals,2018,12,Dec-2018,8.05
+Metals,2018,2,Feb-2018,9.01
+Metals,2018,3,Mar-2018,9.72
+Metals,2018,4,Apr-2018,10.35
+Metals,2018,5,May-2018,8.88
+Metals,2018,6,Jun-2018,8.84
+Metals,2018,7,Jul-2018,9.18
+Metals,2018,8,Aug-2018,10.45
+Metals,2018,9,Sep-2018,11.58
+Metals,2019,1,Jan-2019,7.51
+Metals,2019,10,Oct-2019,10.19
+Metals,2019,11,Nov-2019,12.59
+Metals,2019,12,Dec-2019,11.99
+Metals,2019,2,Feb-2019,11.54
+Metals,2019,3,Mar-2019,8.01
+Metals,2019,4,Apr-2019,8.04
+Metals,2019,5,May-2019,9.54
+Metals,2019,6,Jun-2019,7.71
+Metals,2019,7,Jul-2019,7.25
+Metals,2019,8,Aug-2019,10.83
+Metals,2019,9,Sep-2019,10.45
+Metals,2020,1,Jan-2020,10.18
+Metals,2020,10,Oct-2020,25.44
+Metals,2020,11,Nov-2020,19.91
+Metals,2020,12,Dec-2020,20.73
+Metals,2020,2,Feb-2020,11.14
+Metals,2020,3,Mar-2020,18.6
+Metals,2020,4,Apr-2020,21.46
+Metals,2020,5,May-2020,21.38
+Metals,2020,6,Jun-2020,18.42
+Metals,2020,7,Jul-2020,15.02
+Metals,2020,8,Aug-2020,16.2
+Metals,2020,9,Sep-2020,14.47
+Metals,2021,1,Jan-2021,15.64
+Metals,2021,2,Feb-2021,18.02
+Metals,2021,3,Mar-2021,15.61
+Metals,2021,4,Apr-2021,22.49
+"Oil & Gas",2000,1,Jan-2000,2.73
+"Oil & Gas",2000,10,Oct-2000,0.9
+"Oil & Gas",2000,11,Nov-2000,0.96
+"Oil & Gas",2000,12,Dec-2000,1.01
+"Oil & Gas",2000,2,Feb-2000,1.5
+"Oil & Gas",2000,3,Mar-2000,1.9
+"Oil & Gas",2000,4,Apr-2000,4.07
+"Oil & Gas",2000,5,May-2000,1.83
+"Oil & Gas",2000,6,Jun-2000,1.67
+"Oil & Gas",2000,7,Jul-2000,1.89
+"Oil & Gas",2000,8,Aug-2000,0.72
+"Oil & Gas",2000,9,Sep-2000,1.31
+"Oil & Gas",2001,1,Jan-2001,1.61
+"Oil & Gas",2001,10,Oct-2001,1.09
+"Oil & Gas",2001,11,Nov-2001,0.54
+"Oil & Gas",2001,12,Dec-2001,0.44
+"Oil & Gas",2001,2,Feb-2001,2.27
+"Oil & Gas",2001,3,Mar-2001,1.28
+"Oil & Gas",2001,4,Apr-2001,1.16
+"Oil & Gas",2001,5,May-2001,0.81
+"Oil & Gas",2001,6,Jun-2001,0.75
+"Oil & Gas",2001,7,Jul-2001,0.37
+"Oil & Gas",2001,8,Aug-2001,0.46
+"Oil & Gas",2001,9,Sep-2001,0.85
+"Oil & Gas",2002,1,Jan-2002,0.5
+"Oil & Gas",2002,10,Oct-2002,1.37
+"Oil & Gas",2002,11,Nov-2002,1.95
+"Oil & Gas",2002,12,Dec-2002,1.9
+"Oil & Gas",2002,2,Feb-2002,1.15
+"Oil & Gas",2002,3,Mar-2002,0.97
+"Oil & Gas",2002,4,Apr-2002,1.03
+"Oil & Gas",2002,5,May-2002,0.94
+"Oil & Gas",2002,6,Jun-2002,0.73
+"Oil & Gas",2002,7,Jul-2002,0.93
+"Oil & Gas",2002,8,Aug-2002,0.83
+"Oil & Gas",2002,9,Sep-2002,1.14
+"Oil & Gas",2003,1,Jan-2003,1.4
+"Oil & Gas",2003,10,Oct-2003,2.16
+"Oil & Gas",2003,11,Nov-2003,1.93
+"Oil & Gas",2003,12,Dec-2003,2.87
+"Oil & Gas",2003,2,Feb-2003,1.16
+"Oil & Gas",2003,3,Mar-2003,0.92
+"Oil & Gas",2003,4,Apr-2003,1
+"Oil & Gas",2003,5,May-2003,1.16
+"Oil & Gas",2003,6,Jun-2003,2.45
+"Oil & Gas",2003,7,Jul-2003,2.07
+"Oil & Gas",2003,8,Aug-2003,2.16
+"Oil & Gas",2003,9,Sep-2003,2.55
+"Oil & Gas",2004,1,Jan-2004,4.84
+"Oil & Gas",2004,10,Oct-2004,2
+"Oil & Gas",2004,11,Nov-2004,2.25
+"Oil & Gas",2004,12,Dec-2004,2.5
+"Oil & Gas",2004,2,Feb-2004,3.65
+"Oil & Gas",2004,3,Mar-2004,3.66
+"Oil & Gas",2004,4,Apr-2004,3.35
+"Oil & Gas",2004,5,May-2004,3.82
+"Oil & Gas",2004,6,Jun-2004,2.8
+"Oil & Gas",2004,7,Jul-2004,2.81
+"Oil & Gas",2004,8,Aug-2004,2.21
+"Oil & Gas",2004,9,Sep-2004,1.85
+"Oil & Gas",2005,1,Jan-2005,2.01
+"Oil & Gas",2005,10,Oct-2005,1.86
+"Oil & Gas",2005,11,Nov-2005,1.52
+"Oil & Gas",2005,12,Dec-2005,1.72
+"Oil & Gas",2005,2,Feb-2005,1.84
+"Oil & Gas",2005,3,Mar-2005,2.13
+"Oil & Gas",2005,4,Apr-2005,1.4
+"Oil & Gas",2005,5,May-2005,1.18
+"Oil & Gas",2005,6,Jun-2005,2.03
+"Oil & Gas",2005,7,Jul-2005,1.64
+"Oil & Gas",2005,8,Aug-2005,2.14
+"Oil & Gas",2005,9,Sep-2005,1.79
+"Oil & Gas",2006,1,Jan-2006,3.06
+"Oil & Gas",2006,10,Oct-2006,1.13
+"Oil & Gas",2006,11,Nov-2006,1.14
+"Oil & Gas",2006,12,Dec-2006,1.24
+"Oil & Gas",2006,2,Feb-2006,1.63
+"Oil & Gas",2006,3,Mar-2006,1.65
+"Oil & Gas",2006,4,Apr-2006,2.2
+"Oil & Gas",2006,5,May-2006,2.58
+"Oil & Gas",2006,6,Jun-2006,2.07
+"Oil & Gas",2006,7,Jul-2006,1.4
+"Oil & Gas",2006,8,Aug-2006,1.17
+"Oil & Gas",2006,9,Sep-2006,1.25
+"Oil & Gas",2007,1,Jan-2007,1.15
+"Oil & Gas",2007,10,Oct-2007,1.91
+"Oil & Gas",2007,11,Nov-2007,1.83
+"Oil & Gas",2007,12,Dec-2007,1.92
+"Oil & Gas",2007,2,Feb-2007,0.97
+"Oil & Gas",2007,3,Mar-2007,0.97
+"Oil & Gas",2007,4,Apr-2007,0.91
+"Oil & Gas",2007,5,May-2007,1.04
+"Oil & Gas",2007,6,Jun-2007,0.87
+"Oil & Gas",2007,7,Jul-2007,0.93
+"Oil & Gas",2007,8,Aug-2007,1.02
+"Oil & Gas",2007,9,Sep-2007,1.12
+"Oil & Gas",2008,1,Jan-2008,1.94
+"Oil & Gas",2008,10,Oct-2008,2.67
+"Oil & Gas",2008,11,Nov-2008,2.77
+"Oil & Gas",2008,12,Dec-2008,2.5
+"Oil & Gas",2008,2,Feb-2008,1.29
+"Oil & Gas",2008,3,Mar-2008,1.54
+"Oil & Gas",2008,4,Apr-2008,1.17
+"Oil & Gas",2008,5,May-2008,1.45
+"Oil & Gas",2008,6,Jun-2008,2.05
+"Oil & Gas",2008,7,Jul-2008,1.62
+"Oil & Gas",2008,8,Aug-2008,1.37
+"Oil & Gas",2008,9,Sep-2008,1.92
+"Oil & Gas",2009,1,Jan-2009,2.22
+"Oil & Gas",2009,10,Oct-2009,1.47
+"Oil & Gas",2009,11,Nov-2009,1.58
+"Oil & Gas",2009,12,Dec-2009,1.43
+"Oil & Gas",2009,2,Feb-2009,1.73
+"Oil & Gas",2009,3,Mar-2009,2.1
+"Oil & Gas",2009,4,Apr-2009,2.06
+"Oil & Gas",2009,5,May-2009,2.28
+"Oil & Gas",2009,6,Jun-2009,2.01
+"Oil & Gas",2009,7,Jul-2009,2.12
+"Oil & Gas",2009,8,Aug-2009,1.69
+"Oil & Gas",2009,9,Sep-2009,1.81
+"Oil & Gas",2010,1,Jan-2010,2.34
+"Oil & Gas",2010,10,Oct-2010,1.92
+"Oil & Gas",2010,11,Nov-2010,1.65
+"Oil & Gas",2010,12,Dec-2010,1.57
+"Oil & Gas",2010,2,Feb-2010,1.47
+"Oil & Gas",2010,3,Mar-2010,1.64
+"Oil & Gas",2010,4,Apr-2010,1.64
+"Oil & Gas",2010,5,May-2010,1.98
+"Oil & Gas",2010,6,Jun-2010,2.4
+"Oil & Gas",2010,7,Jul-2010,1.91
+"Oil & Gas",2010,8,Aug-2010,2.08
+"Oil & Gas",2010,9,Sep-2010,2.1
+"Oil & Gas",2011,1,Jan-2011,1.87
+"Oil & Gas",2011,10,Oct-2011,1.68
+"Oil & Gas",2011,11,Nov-2011,1.75
+"Oil & Gas",2011,12,Dec-2011,1.78
+"Oil & Gas",2011,2,Feb-2011,2.37
+"Oil & Gas",2011,3,Mar-2011,1.99
+"Oil & Gas",2011,4,Apr-2011,1.82
+"Oil & Gas",2011,5,May-2011,2.28
+"Oil & Gas",2011,6,Jun-2011,2.05
+"Oil & Gas",2011,7,Jul-2011,1.8
+"Oil & Gas",2011,8,Aug-2011,2.05
+"Oil & Gas",2011,9,Sep-2011,2.77
+"Oil & Gas",2012,1,Jan-2012,1.91
+"Oil & Gas",2012,10,Oct-2012,1.55
+"Oil & Gas",2012,11,Nov-2012,1.52
+"Oil & Gas",2012,12,Dec-2012,1.5
+"Oil & Gas",2012,2,Feb-2012,2.59
+"Oil & Gas",2012,3,Mar-2012,2.08
+"Oil & Gas",2012,4,Apr-2012,1.39
+"Oil & Gas",2012,5,May-2012,1.67
+"Oil & Gas",2012,6,Jun-2012,1.69
+"Oil & Gas",2012,7,Jul-2012,1.32
+"Oil & Gas",2012,8,Aug-2012,1.58
+"Oil & Gas",2012,9,Sep-2012,2.03
+"Oil & Gas",2013,1,Jan-2013,3.05
+"Oil & Gas",2013,10,Oct-2013,1.69
+"Oil & Gas",2013,11,Nov-2013,1.51
+"Oil & Gas",2013,12,Dec-2013,1.5
+"Oil & Gas",2013,2,Feb-2013,1.97
+"Oil & Gas",2013,3,Mar-2013,1.96
+"Oil & Gas",2013,4,Apr-2013,1.77
+"Oil & Gas",2013,5,May-2013,1.82
+"Oil & Gas",2013,6,Jun-2013,2.09
+"Oil & Gas",2013,7,Jul-2013,1.93
+"Oil & Gas",2013,8,Aug-2013,2.58
+"Oil & Gas",2013,9,Sep-2013,2.33
+"Oil & Gas",2014,1,Jan-2014,1.71
+"Oil & Gas",2014,10,Oct-2014,2.55
+"Oil & Gas",2014,11,Nov-2014,2.48
+"Oil & Gas",2014,12,Dec-2014,2.31
+"Oil & Gas",2014,2,Feb-2014,1.43
+"Oil & Gas",2014,3,Mar-2014,2.63
+"Oil & Gas",2014,4,Apr-2014,2.58
+"Oil & Gas",2014,5,May-2014,3.08
+"Oil & Gas",2014,6,Jun-2014,3.92
+"Oil & Gas",2014,7,Jul-2014,2.41
+"Oil & Gas",2014,8,Aug-2014,2.49
+"Oil & Gas",2014,9,Sep-2014,2.21
+"Oil & Gas",2015,1,Jan-2015,2.46
+"Oil & Gas",2015,10,Oct-2015,1.96
+"Oil & Gas",2015,11,Nov-2015,2.14
+"Oil & Gas",2015,12,Dec-2015,2.14
+"Oil & Gas",2015,2,Feb-2015,2.28
+"Oil & Gas",2015,3,Mar-2015,2.34
+"Oil & Gas",2015,4,Apr-2015,2.39
+"Oil & Gas",2015,5,May-2015,2.25
+"Oil & Gas",2015,6,Jun-2015,2.25
+"Oil & Gas",2015,7,Jul-2015,2.3
+"Oil & Gas",2015,8,Aug-2015,3.31
+"Oil & Gas",2015,9,Sep-2015,2.58
+"Oil & Gas",2016,1,Jan-2016,2.83
+"Oil & Gas",2016,10,Oct-2016,3.54
+"Oil & Gas",2016,11,Nov-2016,3.52
+"Oil & Gas",2016,12,Dec-2016,3.29
+"Oil & Gas",2016,2,Feb-2016,2.59
+"Oil & Gas",2016,3,Mar-2016,3.04
+"Oil & Gas",2016,4,Apr-2016,2.37
+"Oil & Gas",2016,5,May-2016,2.34
+"Oil & Gas",2016,6,Jun-2016,1.94
+"Oil & Gas",2016,7,Jul-2016,3.01
+"Oil & Gas",2016,8,Aug-2016,3.06
+"Oil & Gas",2016,9,Sep-2016,3.84
+"Oil & Gas",2017,1,Jan-2017,4.22
+"Oil & Gas",2017,10,Oct-2017,5.36
+"Oil & Gas",2017,11,Nov-2017,4.71
+"Oil & Gas",2017,12,Dec-2017,4.64
+"Oil & Gas",2017,2,Feb-2017,4.69
+"Oil & Gas",2017,3,Mar-2017,5.5
+"Oil & Gas",2017,4,Apr-2017,4.37
+"Oil & Gas",2017,5,May-2017,4.45
+"Oil & Gas",2017,6,Jun-2017,4.12
+"Oil & Gas",2017,7,Jul-2017,4.59
+"Oil & Gas",2017,8,Aug-2017,4.55
+"Oil & Gas",2017,9,Sep-2017,6.36
+"Oil & Gas",2018,1,Jan-2018,5.41
+"Oil & Gas",2018,10,Oct-2018,11.54
+"Oil & Gas",2018,11,Nov-2018,8.69
+"Oil & Gas",2018,12,Dec-2018,10.41
+"Oil & Gas",2018,2,Feb-2018,5.34
+"Oil & Gas",2018,3,Mar-2018,6.4
+"Oil & Gas",2018,4,Apr-2018,6.18
+"Oil & Gas",2018,5,May-2018,7.43
+"Oil & Gas",2018,6,Jun-2018,6.52
+"Oil & Gas",2018,7,Jul-2018,6.45
+"Oil & Gas",2018,8,Aug-2018,5.84
+"Oil & Gas",2018,9,Sep-2018,6.92
+"Oil & Gas",2019,1,Jan-2019,6.87
+"Oil & Gas",2019,10,Oct-2019,11.15
+"Oil & Gas",2019,11,Nov-2019,9.28
+"Oil & Gas",2019,12,Dec-2019,7.69
+"Oil & Gas",2019,2,Feb-2019,9.05
+"Oil & Gas",2019,3,Mar-2019,11.59
+"Oil & Gas",2019,4,Apr-2019,9.8
+"Oil & Gas",2019,5,May-2019,8.95
+"Oil & Gas",2019,6,Jun-2019,7.18
+"Oil & Gas",2019,7,Jul-2019,9.79
+"Oil & Gas",2019,8,Aug-2019,9.95
+"Oil & Gas",2019,9,Sep-2019,13.45
+"Oil & Gas",2020,1,Jan-2020,13.35
+"Oil & Gas",2020,10,Oct-2020,14.47
+"Oil & Gas",2020,11,Nov-2020,18.2
+"Oil & Gas",2020,12,Dec-2020,23.99
+"Oil & Gas",2020,2,Feb-2020,13.58
+"Oil & Gas",2020,3,Mar-2020,26.04
+"Oil & Gas",2020,4,Apr-2020,18.72
+"Oil & Gas",2020,5,May-2020,17.11
+"Oil & Gas",2020,6,Jun-2020,19.56
+"Oil & Gas",2020,7,Jul-2020,19.21
+"Oil & Gas",2020,8,Aug-2020,17.05
+"Oil & Gas",2020,9,Sep-2020,15.86
+"Oil & Gas",2021,1,Jan-2021,21.49
+"Oil & Gas",2021,2,Feb-2021,26.17
+"Oil & Gas",2021,3,Mar-2021,22.72
+"Oil & Gas",2021,4,Apr-2021,12.93
+Others,2000,1,Jan-2000,3.89
+Others,2000,10,Oct-2000,11.04
+Others,2000,11,Nov-2000,11.74
+Others,2000,12,Dec-2000,12.79
+Others,2000,2,Feb-2000,4.19
+Others,2000,3,Mar-2000,3.98
+Others,2000,4,Apr-2000,2.72
+Others,2000,5,May-2000,6.76
+Others,2000,6,Jun-2000,8.34
+Others,2000,7,Jul-2000,10.88
+Others,2000,8,Aug-2000,12.85
+Others,2000,9,Sep-2000,11.88
+Others,2001,1,Jan-2001,15.06
+Others,2001,10,Oct-2001,5.76
+Others,2001,11,Nov-2001,7.29
+Others,2001,12,Dec-2001,11.02
+Others,2001,2,Feb-2001,15.86
+Others,2001,3,Mar-2001,9.81
+Others,2001,4,Apr-2001,4.85
+Others,2001,5,May-2001,6.7
+Others,2001,6,Jun-2001,5.31
+Others,2001,7,Jul-2001,3.94
+Others,2001,8,Aug-2001,10.31
+Others,2001,9,Sep-2001,7.6
+Others,2002,1,Jan-2002,7.44
+Others,2002,10,Oct-2002,3.16
+Others,2002,11,Nov-2002,2.52
+Others,2002,12,Dec-2002,3.6
+Others,2002,2,Feb-2002,6.48
+Others,2002,3,Mar-2002,4.91
+Others,2002,4,Apr-2002,2.51
+Others,2002,5,May-2002,3.05
+Others,2002,6,Jun-2002,1.97
+Others,2002,7,Jul-2002,1.89
+Others,2002,8,Aug-2002,1.68
+Others,2002,9,Sep-2002,2.3
+Others,2003,1,Jan-2003,2.42
+Others,2003,10,Oct-2003,3.35
+Others,2003,11,Nov-2003,2
+Others,2003,12,Dec-2003,2.98
+Others,2003,2,Feb-2003,1.09
+Others,2003,3,Mar-2003,1.03
+Others,2003,4,Apr-2003,1.93
+Others,2003,5,May-2003,2.84
+Others,2003,6,Jun-2003,3.23
+Others,2003,7,Jul-2003,3.99
+Others,2003,8,Aug-2003,3.14
+Others,2003,9,Sep-2003,2.79
+Others,2004,1,Jan-2004,4.1
+Others,2004,10,Oct-2004,1.05
+Others,2004,11,Nov-2004,1.1
+Others,2004,12,Dec-2004,1.79
+Others,2004,2,Feb-2004,2.34
+Others,2004,3,Mar-2004,2.24
+Others,2004,4,Apr-2004,2.16
+Others,2004,5,May-2004,1.73
+Others,2004,6,Jun-2004,1.69
+Others,2004,7,Jul-2004,1.87
+Others,2004,8,Aug-2004,1.89
+Others,2004,9,Sep-2004,1.95
+Others,2005,1,Jan-2005,1.69
+Others,2005,10,Oct-2005,1.49
+Others,2005,11,Nov-2005,0.82
+Others,2005,12,Dec-2005,0.94
+Others,2005,2,Feb-2005,1.74
+Others,2005,3,Mar-2005,1.17
+Others,2005,4,Apr-2005,0.63
+Others,2005,5,May-2005,0.79
+Others,2005,6,Jun-2005,0.76
+Others,2005,7,Jul-2005,1.63
+Others,2005,8,Aug-2005,1.37
+Others,2005,9,Sep-2005,1.65
+Others,2006,1,Jan-2006,0.54
+Others,2006,10,Oct-2006,0.89
+Others,2006,11,Nov-2006,1.6
+Others,2006,12,Dec-2006,1.8
+Others,2006,2,Feb-2006,0.66
+Others,2006,3,Mar-2006,1.75
+Others,2006,4,Apr-2006,1.11
+Others,2006,5,May-2006,1.05
+Others,2006,6,Jun-2006,0.72
+Others,2006,7,Jul-2006,0.87
+Others,2006,8,Aug-2006,0.82
+Others,2006,9,Sep-2006,2.08
+Others,2007,1,Jan-2007,1.05
+Others,2007,10,Oct-2007,2.21
+Others,2007,11,Nov-2007,2.35
+Others,2007,12,Dec-2007,1.66
+Others,2007,2,Feb-2007,1.46
+Others,2007,3,Mar-2007,0.89
+Others,2007,4,Apr-2007,0.99
+Others,2007,5,May-2007,0.92
+Others,2007,6,Jun-2007,0.77
+Others,2007,7,Jul-2007,1.32
+Others,2007,8,Aug-2007,0.94
+Others,2007,9,Sep-2007,0.98
+Others,2008,1,Jan-2008,1.57
+Others,2008,10,Oct-2008,2.11
+Others,2008,11,Nov-2008,1.78
+Others,2008,12,Dec-2008,1.4
+Others,2008,2,Feb-2008,0.89
+Others,2008,3,Mar-2008,1.42
+Others,2008,4,Apr-2008,1.37
+Others,2008,5,May-2008,1.62
+Others,2008,6,Jun-2008,1.45
+Others,2008,7,Jul-2008,1.61
+Others,2008,8,Aug-2008,1.05
+Others,2008,9,Sep-2008,1.67
+Others,2009,1,Jan-2009,1.97
+Others,2009,10,Oct-2009,6.75
+Others,2009,11,Nov-2009,3.31
+Others,2009,12,Dec-2009,2.5
+Others,2009,2,Feb-2009,1.33
+Others,2009,3,Mar-2009,2.23
+Others,2009,4,Apr-2009,2.43
+Others,2009,5,May-2009,2.99
+Others,2009,6,Jun-2009,1.83
+Others,2009,7,Jul-2009,1.8
+Others,2009,8,Aug-2009,2.59
+Others,2009,9,Sep-2009,2.56
+Others,2010,1,Jan-2010,1.89
+Others,2010,10,Oct-2010,3.08
+Others,2010,11,Nov-2010,3.07
+Others,2010,12,Dec-2010,1.96
+Others,2010,2,Feb-2010,2.44
+Others,2010,3,Mar-2010,1.91
+Others,2010,4,Apr-2010,2.53
+Others,2010,5,May-2010,2.68
+Others,2010,6,Jun-2010,2.52
+Others,2010,7,Jul-2010,2.76
+Others,2010,8,Aug-2010,1.91
+Others,2010,9,Sep-2010,2.23
+Others,2011,1,Jan-2011,2.34
+Others,2011,10,Oct-2011,1.89
+Others,2011,11,Nov-2011,2.93
+Others,2011,12,Dec-2011,2.42
+Others,2011,2,Feb-2011,2.36
+Others,2011,3,Mar-2011,1.86
+Others,2011,4,Apr-2011,2.37
+Others,2011,5,May-2011,2.28
+Others,2011,6,Jun-2011,1.98
+Others,2011,7,Jul-2011,2.5
+Others,2011,8,Aug-2011,2.91
+Others,2011,9,Sep-2011,1.95
+Others,2012,1,Jan-2012,1.93
+Others,2012,10,Oct-2012,2.05
+Others,2012,11,Nov-2012,2.89
+Others,2012,12,Dec-2012,2.77
+Others,2012,2,Feb-2012,3.45
+Others,2012,3,Mar-2012,2.45
+Others,2012,4,Apr-2012,1.8
+Others,2012,5,May-2012,1.98
+Others,2012,6,Jun-2012,2.04
+Others,2012,7,Jul-2012,1.91
+Others,2012,8,Aug-2012,3.28
+Others,2012,9,Sep-2012,2.86
+Others,2013,1,Jan-2013,3.05
+Others,2013,10,Oct-2013,2.81
+Others,2013,11,Nov-2013,2.45
+Others,2013,12,Dec-2013,2.4
+Others,2013,2,Feb-2013,3.03
+Others,2013,3,Mar-2013,3.11
+Others,2013,4,Apr-2013,2.33
+Others,2013,5,May-2013,2.91
+Others,2013,6,Jun-2013,2.73
+Others,2013,7,Jul-2013,2.41
+Others,2013,8,Aug-2013,3.7
+Others,2013,9,Sep-2013,2.83
+Others,2014,1,Jan-2014,2.52
+Others,2014,10,Oct-2014,2.47
+Others,2014,11,Nov-2014,3.84
+Others,2014,12,Dec-2014,2.45
+Others,2014,2,Feb-2014,3.25
+Others,2014,3,Mar-2014,2.89
+Others,2014,4,Apr-2014,4.26
+Others,2014,5,May-2014,4.66
+Others,2014,6,Jun-2014,3.66
+Others,2014,7,Jul-2014,3.89
+Others,2014,8,Aug-2014,3.12
+Others,2014,9,Sep-2014,2.82
+Others,2015,1,Jan-2015,2.56
+Others,2015,10,Oct-2015,2.83
+Others,2015,11,Nov-2015,2.44
+Others,2015,12,Dec-2015,2.38
+Others,2015,2,Feb-2015,2.63
+Others,2015,3,Mar-2015,3.37
+Others,2015,4,Apr-2015,3.08
+Others,2015,5,May-2015,5
+Others,2015,6,Jun-2015,3.02
+Others,2015,7,Jul-2015,2.54
+Others,2015,8,Aug-2015,3.64
+Others,2015,9,Sep-2015,3.03
+Others,2016,1,Jan-2016,2.75
+Others,2016,10,Oct-2016,3.17
+Others,2016,11,Nov-2016,2.97
+Others,2016,12,Dec-2016,2.23
+Others,2016,2,Feb-2016,2.83
+Others,2016,3,Mar-2016,2.46
+Others,2016,4,Apr-2016,2.56
+Others,2016,5,May-2016,4.39
+Others,2016,6,Jun-2016,2.6
+Others,2016,7,Jul-2016,2.71
+Others,2016,8,Aug-2016,3.05
+Others,2016,9,Sep-2016,3.36
+Others,2017,1,Jan-2017,2.78
+Others,2017,10,Oct-2017,4.47
+Others,2017,11,Nov-2017,4.57
+Others,2017,12,Dec-2017,3.53
+Others,2017,2,Feb-2017,3.11
+Others,2017,3,Mar-2017,2.71
+Others,2017,4,Apr-2017,2.87
+Others,2017,5,May-2017,3.45
+Others,2017,6,Jun-2017,2.54
+Others,2017,7,Jul-2017,2.62
+Others,2017,8,Aug-2017,2.19
+Others,2017,9,Sep-2017,2.55
+Others,2018,1,Jan-2018,4.47
+Others,2018,10,Oct-2018,4.35
+Others,2018,11,Nov-2018,4.22
+Others,2018,12,Dec-2018,4.3
+Others,2018,2,Feb-2018,3.27
+Others,2018,3,Mar-2018,3.28
+Others,2018,4,Apr-2018,3.22
+Others,2018,5,May-2018,3.31
+Others,2018,6,Jun-2018,2.68
+Others,2018,7,Jul-2018,3.17
+Others,2018,8,Aug-2018,2.79
+Others,2018,9,Sep-2018,3.44
+Others,2019,1,Jan-2019,6.97
+Others,2019,10,Oct-2019,10.55
+Others,2019,11,Nov-2019,15.78
+Others,2019,12,Dec-2019,10.02
+Others,2019,2,Feb-2019,6.34
+Others,2019,3,Mar-2019,5.53
+Others,2019,4,Apr-2019,5.06
+Others,2019,5,May-2019,8.68
+Others,2019,6,Jun-2019,5.51
+Others,2019,7,Jul-2019,5.67
+Others,2019,8,Aug-2019,6.77
+Others,2019,9,Sep-2019,7.58
+Others,2020,1,Jan-2020,10.52
+Others,2020,10,Oct-2020,15.1
+Others,2020,11,Nov-2020,12.01
+Others,2020,12,Dec-2020,15.06
+Others,2020,2,Feb-2020,9.27
+Others,2020,3,Mar-2020,11.15
+Others,2020,4,Apr-2020,11.74
+Others,2020,5,May-2020,17.43
+Others,2020,6,Jun-2020,14.46
+Others,2020,7,Jul-2020,12.02
+Others,2020,8,Aug-2020,22.14
+Others,2020,9,Sep-2020,20.71
+Others,2021,1,Jan-2021,14.29
+Others,2021,2,Feb-2021,19.34
+Others,2021,3,Mar-2021,14.11
+Others,2021,4,Apr-2021,13.75
+Pharma,2000,1,Jan-2000,0.05
+Pharma,2000,10,Oct-2000,0.11
+Pharma,2000,11,Nov-2000,0.13
+Pharma,2000,12,Dec-2000,0.12
+Pharma,2000,2,Feb-2000,0.05
+Pharma,2000,3,Mar-2000,0.07
+Pharma,2000,4,Apr-2000,0.06
+Pharma,2000,5,May-2000,0.05
+Pharma,2000,6,Jun-2000,0.05
+Pharma,2000,7,Jul-2000,0.08
+Pharma,2000,8,Aug-2000,0.07
+Pharma,2000,9,Sep-2000,0.08
+Pharma,2001,1,Jan-2001,0.1
+Pharma,2001,10,Oct-2001,0.19
+Pharma,2001,11,Nov-2001,0.27
+Pharma,2001,12,Dec-2001,0.18
+Pharma,2001,2,Feb-2001,0.08
+Pharma,2001,3,Mar-2001,0.06
+Pharma,2001,4,Apr-2001,0.07
+Pharma,2001,5,May-2001,0.06
+Pharma,2001,6,Jun-2001,0.07
+Pharma,2001,7,Jul-2001,0.06
+Pharma,2001,8,Aug-2001,0.12
+Pharma,2001,9,Sep-2001,0.19
+Pharma,2002,1,Jan-2002,0.11
+Pharma,2002,10,Oct-2002,0.1
+Pharma,2002,11,Nov-2002,0.09
+Pharma,2002,12,Dec-2002,0.11
+Pharma,2002,2,Feb-2002,0.1
+Pharma,2002,3,Mar-2002,0.05
+Pharma,2002,4,Apr-2002,0.06
+Pharma,2002,5,May-2002,0.05
+Pharma,2002,6,Jun-2002,0.04
+Pharma,2002,7,Jul-2002,0.07
+Pharma,2002,8,Aug-2002,0.04
+Pharma,2002,9,Sep-2002,0.05
+Pharma,2003,1,Jan-2003,0.1
+Pharma,2003,10,Oct-2003,0.16
+Pharma,2003,11,Nov-2003,0.18
+Pharma,2003,12,Dec-2003,0.1
+Pharma,2003,2,Feb-2003,0.05
+Pharma,2003,3,Mar-2003,0.05
+Pharma,2003,4,Apr-2003,0.06
+Pharma,2003,5,May-2003,0.08
+Pharma,2003,6,Jun-2003,0.09
+Pharma,2003,7,Jul-2003,0.13
+Pharma,2003,8,Aug-2003,0.16
+Pharma,2003,9,Sep-2003,0.18
+Pharma,2004,1,Jan-2004,0.12
+Pharma,2004,10,Oct-2004,0.3
+Pharma,2004,11,Nov-2004,0.31
+Pharma,2004,12,Dec-2004,0.38
+Pharma,2004,2,Feb-2004,0.15
+Pharma,2004,3,Mar-2004,0.13
+Pharma,2004,4,Apr-2004,0.15
+Pharma,2004,5,May-2004,0.21
+Pharma,2004,6,Jun-2004,0.2
+Pharma,2004,7,Jul-2004,0.19
+Pharma,2004,8,Aug-2004,0.24
+Pharma,2004,9,Sep-2004,0.34
+Pharma,2005,1,Jan-2005,0.59
+Pharma,2005,10,Oct-2005,0.46
+Pharma,2005,11,Nov-2005,0.25
+Pharma,2005,12,Dec-2005,0.22
+Pharma,2005,2,Feb-2005,0.26
+Pharma,2005,3,Mar-2005,0.42
+Pharma,2005,4,Apr-2005,0.33
+Pharma,2005,5,May-2005,0.25
+Pharma,2005,6,Jun-2005,0.29
+Pharma,2005,7,Jul-2005,0.26
+Pharma,2005,8,Aug-2005,0.21
+Pharma,2005,9,Sep-2005,0.21
+Pharma,2006,1,Jan-2006,0.25
+Pharma,2006,10,Oct-2006,0.47
+Pharma,2006,11,Nov-2006,0.59
+Pharma,2006,12,Dec-2006,0.59
+Pharma,2006,2,Feb-2006,0.84
+Pharma,2006,3,Mar-2006,0.49
+Pharma,2006,4,Apr-2006,1.17
+Pharma,2006,5,May-2006,1.01
+Pharma,2006,6,Jun-2006,0.84
+Pharma,2006,7,Jul-2006,0.71
+Pharma,2006,8,Aug-2006,0.68
+Pharma,2006,9,Sep-2006,0.68
+Pharma,2007,1,Jan-2007,0.52
+Pharma,2007,10,Oct-2007,0.89
+Pharma,2007,11,Nov-2007,0.49
+Pharma,2007,12,Dec-2007,0.76
+Pharma,2007,2,Feb-2007,0.5
+Pharma,2007,3,Mar-2007,0.55
+Pharma,2007,4,Apr-2007,0.91
+Pharma,2007,5,May-2007,1.02
+Pharma,2007,6,Jun-2007,0.69
+Pharma,2007,7,Jul-2007,1.02
+Pharma,2007,8,Aug-2007,0.73
+Pharma,2007,9,Sep-2007,0.99
+Pharma,2008,1,Jan-2008,0.59
+Pharma,2008,10,Oct-2008,0.89
+Pharma,2008,11,Nov-2008,0.71
+Pharma,2008,12,Dec-2008,0.69
+Pharma,2008,2,Feb-2008,0.4
+Pharma,2008,3,Mar-2008,0.82
+Pharma,2008,4,Apr-2008,0.51
+Pharma,2008,5,May-2008,0.54
+Pharma,2008,6,Jun-2008,0.7
+Pharma,2008,7,Jul-2008,0.66
+Pharma,2008,8,Aug-2008,0.55
+Pharma,2008,9,Sep-2008,0.65
+Pharma,2009,1,Jan-2009,0.6
+Pharma,2009,10,Oct-2009,0.92
+Pharma,2009,11,Nov-2009,0.83
+Pharma,2009,12,Dec-2009,0.94
+Pharma,2009,2,Feb-2009,0.66
+Pharma,2009,3,Mar-2009,0.66
+Pharma,2009,4,Apr-2009,0.9
+Pharma,2009,5,May-2009,0.74
+Pharma,2009,6,Jun-2009,0.97
+Pharma,2009,7,Jul-2009,0.77
+Pharma,2009,8,Aug-2009,0.75
+Pharma,2009,9,Sep-2009,0.8
+Pharma,2010,1,Jan-2010,0.72
+Pharma,2010,10,Oct-2010,0.76
+Pharma,2010,11,Nov-2010,0.82
+Pharma,2010,12,Dec-2010,0.98
+Pharma,2010,2,Feb-2010,0.46
+Pharma,2010,3,Mar-2010,0.55
+Pharma,2010,4,Apr-2010,0.63
+Pharma,2010,5,May-2010,0.76
+Pharma,2010,6,Jun-2010,0.59
+Pharma,2010,7,Jul-2010,0.47
+Pharma,2010,8,Aug-2010,0.65
+Pharma,2010,9,Sep-2010,0.74
+Pharma,2011,1,Jan-2011,0.86
+Pharma,2011,10,Oct-2011,0.79
+Pharma,2011,11,Nov-2011,0.98
+Pharma,2011,12,Dec-2011,0.79
+Pharma,2011,2,Feb-2011,0.93
+Pharma,2011,3,Mar-2011,0.91
+Pharma,2011,4,Apr-2011,0.62
+Pharma,2011,5,May-2011,0.81
+Pharma,2011,6,Jun-2011,0.81
+Pharma,2011,7,Jul-2011,0.7
+Pharma,2011,8,Aug-2011,0.88
+Pharma,2011,9,Sep-2011,0.94
+Pharma,2012,1,Jan-2012,0.7
+Pharma,2012,10,Oct-2012,0.95
+Pharma,2012,11,Nov-2012,1.09
+Pharma,2012,12,Dec-2012,0.82
+Pharma,2012,2,Feb-2012,1.04
+Pharma,2012,3,Mar-2012,1.03
+Pharma,2012,4,Apr-2012,0.59
+Pharma,2012,5,May-2012,0.83
+Pharma,2012,6,Jun-2012,0.67
+Pharma,2012,7,Jul-2012,0.71
+Pharma,2012,8,Aug-2012,0.97
+Pharma,2012,9,Sep-2012,1.25
+Pharma,2013,1,Jan-2013,0.95
+Pharma,2013,10,Oct-2013,1.04
+Pharma,2013,11,Nov-2013,1.03
+Pharma,2013,12,Dec-2013,1.08
+Pharma,2013,2,Feb-2013,1.3
+Pharma,2013,3,Mar-2013,0.84
+Pharma,2013,4,Apr-2013,0.82
+Pharma,2013,5,May-2013,1.03
+Pharma,2013,6,Jun-2013,1.07
+Pharma,2013,7,Jul-2013,0.82
+Pharma,2013,8,Aug-2013,1.42
+Pharma,2013,9,Sep-2013,1.14
+Pharma,2014,1,Jan-2014,1.08
+Pharma,2014,10,Oct-2014,1.34
+Pharma,2014,11,Nov-2014,1.62
+Pharma,2014,12,Dec-2014,1.26
+Pharma,2014,2,Feb-2014,1.51
+Pharma,2014,3,Mar-2014,1.5
+Pharma,2014,4,Apr-2014,1.78
+Pharma,2014,5,May-2014,1.71
+Pharma,2014,6,Jun-2014,1.54
+Pharma,2014,7,Jul-2014,1.19
+Pharma,2014,8,Aug-2014,1.22
+Pharma,2014,9,Sep-2014,2.06
+Pharma,2015,1,Jan-2015,1.2
+Pharma,2015,10,Oct-2015,1.58
+Pharma,2015,11,Nov-2015,2.41
+Pharma,2015,12,Dec-2015,2.17
+Pharma,2015,2,Feb-2015,1.25
+Pharma,2015,3,Mar-2015,1.54
+Pharma,2015,4,Apr-2015,7.24
+Pharma,2015,5,May-2015,2.13
+Pharma,2015,6,Jun-2015,2.15
+Pharma,2015,7,Jul-2015,1.95
+Pharma,2015,8,Aug-2015,2.45
+Pharma,2015,9,Sep-2015,1.9
+Pharma,2016,1,Jan-2016,1.45
+Pharma,2016,10,Oct-2016,1.1
+Pharma,2016,11,Nov-2016,2.72
+Pharma,2016,12,Dec-2016,2.05
+Pharma,2016,2,Feb-2016,1.71
+Pharma,2016,3,Mar-2016,2.16
+Pharma,2016,4,Apr-2016,1.61
+Pharma,2016,5,May-2016,1.87
+Pharma,2016,6,Jun-2016,1.98
+Pharma,2016,7,Jul-2016,1.81
+Pharma,2016,8,Aug-2016,1.83
+Pharma,2016,9,Sep-2016,1.44
+Pharma,2017,1,Jan-2017,1.24
+Pharma,2017,10,Oct-2017,1.97
+Pharma,2017,11,Nov-2017,2.46
+Pharma,2017,12,Dec-2017,2.2
+Pharma,2017,2,Feb-2017,2.01
+Pharma,2017,3,Mar-2017,1.6
+Pharma,2017,4,Apr-2017,1.44
+Pharma,2017,5,May-2017,2.68
+Pharma,2017,6,Jun-2017,2.44
+Pharma,2017,7,Jul-2017,1.34
+Pharma,2017,8,Aug-2017,2.75
+Pharma,2017,9,Sep-2017,2.82
+Pharma,2018,1,Jan-2018,2.17
+Pharma,2018,10,Oct-2018,2.5
+Pharma,2018,11,Nov-2018,4.29
+Pharma,2018,12,Dec-2018,7.74
+Pharma,2018,2,Feb-2018,4.07
+Pharma,2018,3,Mar-2018,2.7
+Pharma,2018,4,Apr-2018,1.85
+Pharma,2018,5,May-2018,3.13
+Pharma,2018,6,Jun-2018,4.55
+Pharma,2018,7,Jul-2018,2.43
+Pharma,2018,8,Aug-2018,4.03
+Pharma,2018,9,Sep-2018,4.07
+Pharma,2019,1,Jan-2019,5.82
+Pharma,2019,10,Oct-2019,2.74
+Pharma,2019,11,Nov-2019,4.58
+Pharma,2019,12,Dec-2019,2.48
+Pharma,2019,2,Feb-2019,4.1
+Pharma,2019,3,Mar-2019,3.1
+Pharma,2019,4,Apr-2019,2.53
+Pharma,2019,5,May-2019,3.95
+Pharma,2019,6,Jun-2019,2.84
+Pharma,2019,7,Jul-2019,3.23
+Pharma,2019,8,Aug-2019,3.49
+Pharma,2019,9,Sep-2019,3.68
+Pharma,2020,1,Jan-2020,2.34
+Pharma,2020,10,Oct-2020,5.76
+Pharma,2020,11,Nov-2020,7.38
+Pharma,2020,12,Dec-2020,5.85
+Pharma,2020,2,Feb-2020,3.47
+Pharma,2020,3,Mar-2020,5.95
+Pharma,2020,4,Apr-2020,11.85
+Pharma,2020,5,May-2020,7.33
+Pharma,2020,6,Jun-2020,6.41
+Pharma,2020,7,Jul-2020,5.99
+Pharma,2020,8,Aug-2020,7.34
+Pharma,2020,9,Sep-2020,7.91
+Pharma,2021,1,Jan-2021,4.49
+Pharma,2021,2,Feb-2021,5.44
+Pharma,2021,3,Mar-2021,3.4
+Pharma,2021,4,Apr-2021,6.44
