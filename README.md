@@ -231,7 +231,7 @@ Three dashboards. Three perspectives. One complete picture.
 ### Dashboard 3 — Market Volume Trends
 *"What did 21 years of market activity look like?"*
 
-![Volume Trends](Market%20Volume%20Trends.png)
+![Volume Trends](Market%20Volume%20Trend%202000-2021.png)
 
 - **Line chart** — Monthly trading volume across all 9 sectors
 - Massive spike visible in **2020** — COVID-19 market volatility
